@@ -3,223 +3,272 @@
 Up to date (2018-3-6), there are `710` Algorithms questions on [LeetCode Online Judge](https://leetcode.com/). 
 The number of questions is increasing continually.
 Here is the classification of some of these questions.
-I'll keep updating for full summary and better solutions. Stay tuned for updates.
+I'll keep updating for full summary and better Solution & Analysis. Stay tuned for updates.
 
 ## Algorithms
 
-- [Array](https://github.com/ZhyZhao/leetcode#array)
-- [Dinamic Programming](https://github.com/ZhyZhao/leetcode#dinamic-rogramming)
-- [Math](https://github.com/ZhyZhao/leetcode#math)
-- [String](https://github.com/ZhyZhao/leetcode#string)
-- [Hash Table](https://github.com/ZhyZhao/leetcode#hash-table)
-- [Tree](https://github.com/ZhyZhao/leetcode#tree)
-- [Binary Search](https://github.com/ZhyZhao/leetcode#binary-search)
-- [Depth-first Search](https://github.com/ZhyZhao/leetcode#depth-first-search)
-- [Backtracking](https://github.com/ZhyZhao/leetcode#backtracking)
-- [Two Pointers](https://github.com/ZhyZhao/leetcode#two-pointers)
-- [Linked List](https://github.com/ZhyZhao/leetcode#linked-list)
-- [Design](https://github.com/ZhyZhao/leetcode#design)
-- [Stack](https://github.com/ZhyZhao/leetcode#stack)
-- [Bit Manipulation](https://github.com/ZhyZhao/leetcode#bitmanipulation)
-- [Breadth-first Search](https://github.com/ZhyZhao/leetcode#breadth-first-search)
-- [Greedy](https://github.com/ZhyZhao/leetcode#greedy)
-- [Sort](https://github.com/ZhyZhao/leetcode#sort)
-- [Heap](https://github.com/ZhyZhao/leetcode#heap)
-- [Divide and Conquer](https://github.com/ZhyZhao/leetcode#divide-and-conquer)
-- [Graph](https://github.com/ZhyZhao/leetcode#graph)
-- [Union Find](https://github.com/ZhyZhao/leetcode#union-find)
-- [Trie](https://github.com/ZhyZhao/leetcode#trie)
-- [Topological Sort](https://github.com/ZhyZhao/leetcode#topological-sort)
-- [Binary Indexed Tree](https://github.com/ZhyZhao/leetcode#binary-indexed-tree)
-- [Binary Search Tree](https://github.com/ZhyZhao/leetcode#binary-search-tree)
-- [Queue](https://github.com/ZhyZhao/leetcode#queue)
-- [Recursion](https://github.com/ZhyZhao/leetcode#recursion)
-- [Brainteaser](https://github.com/ZhyZhao/leetcode#brainteaser)
-- [Reservoir Sampling](https://github.com/ZhyZhao/leetcode#reservoir-sampling)
-- [Memoization](https://github.com/ZhyZhao/leetcode#memoization)
+- [Array](https://github.com/WilliamZhaoz/leetcode#array)
+- [Dynamic Programming](https://github.com/WilliamZhaoz/leetcode#dynamic-rogramming)
+- [Math](https://github.com/WilliamZhaoz/leetcode#math)
+- [String](https://github.com/WilliamZhaoz/leetcode#string)
+- [Hash Table](https://github.com/WilliamZhaoz/leetcode#hash-table)
+- [Tree](https://github.com/WilliamZhaoz/leetcode#tree)
+- [Binary Search](https://github.com/WilliamZhaoz/leetcode#binary-search)
+- [Depth-first Search](https://github.com/WilliamZhaoz/leetcode#depth-first-search)
+- [Backtracking](https://github.com/WilliamZhaoz/leetcode#backtracking)
+- [Two Pointers](https://github.com/WilliamZhaoz/leetcode#two-pointers)
+- [Linked List](https://github.com/WilliamZhaoz/leetcode#linked-list)
+- [Design](https://github.com/WilliamZhaoz/leetcode#design)
+- [Stack](https://github.com/WilliamZhaoz/leetcode#stack)
+- [Bit Manipulation](https://github.com/WilliamZhaoz/leetcode#bitmanipulation)
+- [Breadth-first Search](https://github.com/WilliamZhaoz/leetcode#breadth-first-search)
+- [Greedy](https://github.com/WilliamZhaoz/leetcode#greedy)
+- [Sort](https://github.com/WilliamZhaoz/leetcode#sort)
+- [Heap](https://github.com/WilliamZhaoz/leetcode#heap)
+- [Divide and Conquer](https://github.com/WilliamZhaoz/leetcode#divide-and-conquer)
+- [Graph](https://github.com/WilliamZhaoz/leetcode#graph)
+- [Union Find](https://github.com/WilliamZhaoz/leetcode#union-find)
+- [Trie](https://github.com/WilliamZhaoz/leetcode#trie)
+- [Topological Sort](https://github.com/WilliamZhaoz/leetcode#topological-sort)
+- [Binary Indexed Tree](https://github.com/WilliamZhaoz/leetcode#binary-indexed-tree)
+- [Binary Search Tree](https://github.com/WilliamZhaoz/leetcode#binary-search-tree)
+- [Queue](https://github.com/WilliamZhaoz/leetcode#queue)
+- [Recursion](https://github.com/WilliamZhaoz/leetcode#recursion)
+- [Brainteaser](https://github.com/WilliamZhaoz/leetcode#brainteaser)
+- [Reservoir Sampling](https://github.com/WilliamZhaoz/leetcode#reservoir-sampling)
+- [Memoization](https://github.com/WilliamZhaoz/leetcode#memoization)
 
 ## Array
 
-| # Title | Difficulty | Solution | Tags | Bug free |
-| ------- | ---------- | -------- | ---- | -------- |
-|         |            |          |      |          |
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
-## Dinamic Programming
+## Dynamic Programming
 
-| # Title | Difficulty | Solution | Tags | Bug free |
-| ------- | ---------- | -------- | ---- | -------- |
-|         |            |          |      |          |
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Math
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
-
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## String
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
-
------|---------------- | --------------- | --------------- | --------------- | -------------  
-22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./C++/generateParentheses.cpp)  | _O()_       | _O()_          | Medium   
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Hash Table
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Tree
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Binary Search
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Depth-first Search
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Backtracking
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
-22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./C++/generateParentheses.cpp)  | _O(n)_       | _O(1)_          | Medium  
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Two Pointers
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Linked List
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
-24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./C++/swapNodeInPairs.cpp)  | _O()_       | _O()_          | Easy      
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Design
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Stack
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Bit Manipulation
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | -------------
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Breadth-first Search
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Greedy
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Sort
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Heap
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Divide and Conquer
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Graph
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Union Find
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Trie
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | -------------
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Topological Sort
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | -------------
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Binary Indexed Tree
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Binary Search Tree
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Queue
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Recursion
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Brainteaser
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 ## Reservoir Sampling
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
-## Memoization
+## Memorization
 
-# | Title           |  Solution       |  Time           | Space           | Difficulty
+## 
 
------|---------------- | --------------- | --------------- | --------------- | ------------- 
+| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
+| ------- | ---------- | ------------------- | ----- | -------- |
+|         |            |                     |       |          |
 
 
 
