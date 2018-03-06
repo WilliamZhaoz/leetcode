@@ -1,4 +1,4 @@
-# LeetCode](https://leetcode.com/problemset/algorithms/)
+# [LeetCode](https://leetcode.com/problemset/algorithms/)
 
 Up to date (2018-3-6), there are `710` Algorithms questions on [LeetCode Online Judge](https://leetcode.com/). 
 The number of questions is increasing continually.
