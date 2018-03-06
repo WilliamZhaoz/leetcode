@@ -9,38 +9,40 @@
  */
 class Solution {
 public:
-    
+
     // reference : http://blog.csdn.net/yimingsilence/article/details/54783208
 
+
     // recursive version
-    /*
+    
     vector<int> res;
-    vector<int> inorderTraversal(TreeNode* root) {
+    vector<int> preorderTraversal(TreeNode* root) {
         if (!root) {
             return res;
         }
-        inorderTraversal(root->left);
         res.push_back(root->val);
-        inorderTraversal(root->right);
+        preorderTraversal(root->left);
+        preorderTraversal(root->right);
         return res;
     }
-    */
     
+    /*
     // non-recursive version
-    vector<int> inorderTraversal(TreeNode* root) {
+    vector<int> preorderTraversal(TreeNode* root) {
         vector<int> res;
         stack<TreeNode*> s;
         TreeNode* node = root;
         while (node || !s.empty()) {
             if (node) {
+                res.push_back(node->val);
                 s.push(node);
                 node = node->left;
             } else {
-                res.push_back(s.top()->val);
                 node = s.top()->right;
                 s.pop();
             }
         }
         return res;
     }
+    */
 };
