@@ -64,31 +64,23 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Hash Table
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Tree
 
-## 
-
-| # Title | Difficulty | Solution & Analysis | Notes | Bug free |
-| ------- | ---------- | ------------------- | ----- | -------- |
-|         |            |                     |       |          |
+| # Title                          | Difficulty | Solution & Analysis                      | Notes | Bug free |
+| -------------------------------- | ---------- | ---------------------------------------- | ----- | -------- |
+| 94.Binary Tree Inorder Traversal | Medium     | [c++](./C++/94.binary-tree-inorder-traversal.cpp) |       | ✔        |
 
 ## Binary Search
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
-## Depth-first Search
-
-## 
+## Depth-first Search 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -96,15 +88,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Backtracking
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Two Pointers
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -112,15 +100,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Linked List
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Design
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -128,15 +112,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Stack
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Bit Manipulation
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -144,15 +124,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Breadth-first Search
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Greedy
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -160,15 +136,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Sort
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Heap
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -176,15 +148,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Divide and Conquer
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Graph
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -192,15 +160,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Union Find
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Trie
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -208,15 +172,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Topological Sort
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Binary Indexed Tree
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -224,15 +184,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Binary Search Tree
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Queue
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -240,15 +196,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Recursion
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Brainteaser
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
@@ -256,15 +208,11 @@ I'll keep updating for full summary and better Solution & Analysis. Stay tuned f
 
 ## Reservoir Sampling
 
-## 
-
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
 |         |            |                     |       |          |
 
 ## Memorization
-
-## 
 
 | # Title | Difficulty | Solution & Analysis | Notes | Bug free |
 | ------- | ---------- | ------------------- | ----- | -------- |
