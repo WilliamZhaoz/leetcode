@@ -7,6 +7,14 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+ 
+/**
+	Note
+	
+	queue.size() need to be stored in for loop version 
+	q.push(NULL) need q.size() > 0 in marker NULL version orelse tracked in loop
+
+**/
 class Solution {
 public:
     
