@@ -9,75 +9,69 @@
  */
 class Solution {
 public:
-		/*
-    reverse function
-    1. level.insert(level.begin(), 1, node->val)
-    2. level[qs - 1 - i] = node->val
-    3. reverse(level.begin(), level.end())
-    4. vector<int>(level.rbegin(), level.level.rend())
+    
+    /*
+    reverse function 
+    1. res.insert(res.begin(), 1, level)
+    2. reverse(res.begin(), res.end());
+    3. vector<vector<int>> (res.rbegin(), res.rend())
+    4. res[index] = level
     */
     
     // version 1 : bfs marker NULL
+    
     /*
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+    vector<vector<int>> levelOrderBottom(TreeNode* root) {
         vector<vector<int>> res;
+        queue<TreeNode*> q;
         if (!root) {
             return res;
         }
-        queue<TreeNode*> q;
         q.push(root);
         q.push(NULL);
-        int tag = 0; // bool l2r  !l2r
         vector<int> level;
         while (!q.empty()) {
-            TreeNode *node = q.front();
+            TreeNode* node = q.front();
             q.pop();
             if (!node) {
                 res.push_back(level);
                 level.clear();
-                tag ++;
                 if (!q.empty()) {
-                    q.push(NULL);   
+                    q.push(NULL);
                 }
             } else {
-                if (tag % 2) {
-                    level.push_back(node->val); 
-                } else {
-                    level.insert(level.begin(), 1, node->val);
+                if (node->left) {
+                    q.push(node->left);
                 }
                 if (node->right) {
                     q.push(node->right);
                 }
-                if (node->left) {
-                    q.push(node->left);
-                } 
+                level.push_back(node->val);
             }
         }
-        return res;
+        reverse(res.begin(), res.end());
+        return res; // return vector<vector<int>> (res.rbegin(), res.rend());
     }
     */
     
     // version 2 : bfs for loop
+    
     /*
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+    vector<vector<int>> levelOrderBottom(TreeNode* root) {
         vector<vector<int>> res;
         queue<TreeNode*> q;
         if (!root) {
             return res;
         }
         q.push(root);
-        int tag = 0;
         while (!q.empty()) {
-            int qs = q.size();
             vector<int> level;
+            //TreeNode *node = q.front();
+            int qs = q.size();
             for (int i = 0; i < qs; i++) {
                 TreeNode *node = q.front();
+                level.push_back(node->val);
                 q.pop();
-                if (!(tag % 2)) {
-                    level.push_back(node->val); // level[i] = 
-                } else {
-                    level.insert(level.begin(), 1, node->val); // level[qs - 1 - i] = 
-                }
                 if (node->left) {
                     q.push(node->left);
                 }
@@ -86,32 +80,28 @@ public:
                 }
             }
             res.push_back(level);
-            tag++;
         }
+        reverse(res.begin(), res.end());
         return res;
     }
     */
     
     // version 3 : dfs
-    vector<vector<int>> res;
-    void dfs(TreeNode* root, int depth) {
+    void dfs(TreeNode* root, vector<vector<int>> &res, int depth) {
         if (!root) {
-           return; 
+            return;
         }
-        if(res.size() == depth) {
+        if (res.size() <= depth) {
             res.push_back(vector<int>());
-        }
-        if (depth % 2) {
-            res[depth].insert(res[depth].begin(), 1, root->val);
-        } else {
-            res[depth].push_back(root->val);    
-        }
-        dfs(root->left, depth + 1);
-        dfs(root->right, depth + 1);
-        
+        } 
+        dfs(root->left, res, depth + 1);
+        dfs(root->right, res, depth + 1);
+        res[depth].push_back(root->val);
     }
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        dfs(root, 0);
+    vector<vector<int>> levelOrderBottom(TreeNode* root) {
+        vector<vector<int>> res;
+        dfs(root, res, 0);
+        reverse(res.begin(), res.end());
         return res;
     }
 };

@@ -7,18 +7,10 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
- 
-/**
-	Note
-	
-	queue.size() need to be stored in for loop version 
-	q.push(NULL) need q.size() > 0 in marker NULL version orelse tracked in loop
-
-**/
 class Solution {
 public:
     
-    // version 1 : marker NULL
+    // version 1 : bfs marker NULL
     /*
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> res;
@@ -52,7 +44,8 @@ public:
     }
     */
     
-    // version 2 : for loop
+    // version 2 : bfs for loop
+    /*
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> res;
         queue<TreeNode*> q;
@@ -75,6 +68,25 @@ public:
             }
             res.push_back(level_vec);
         }
+        return res;
+    }
+    */
+    
+    // version 3 : dfs
+    vector<vector<int>> res;
+    void dfs (TreeNode* root, int depth) {
+        if (!root) {
+            return;
+        }
+        if (res.size() == depth) {
+            res.push_back(vector<int>());
+        }
+        res[depth].push_back(root->val);
+        dfs(root->left, depth + 1);
+        dfs(root->right, depth + 1);
+    }
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        dfs(root, 0);
         return res;
     }
 };
