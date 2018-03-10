@@ -82,6 +82,7 @@ public:
     
     
     // version 3 : bfs non-recursive version 1 marker NULL
+    /*
     int maxDepth(TreeNode* root) {
         int res = 0;
         if (!root) {
@@ -99,9 +100,40 @@ public:
                     q.push(NULL);    
                 }
             } else {
-                q.push(node->left);
-                q.push(node->right);
+                if (node->left) {
+                    q.push(node->left);    
+                }
+                if (node->right) {
+                    q.push(node->right);    
+                }
             }
+        }
+        return res;
+    }
+    */
+    
+    // version 4 : bfs non-recursive version 2 for loop
+    int maxDepth(TreeNode* root) {
+        int res = 0;
+        if (!root) {
+            return res;
+        }
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            TreeNode* node = q.front();
+            int qs = q.size();
+            for (int i = 0; i < qs; i++) {
+                node = q.front();
+                q.pop();
+                if (node->left) {
+                    q.push(node->left);
+                }
+                if (node->right) {
+                    q.push(node->right);
+                }
+            }
+            res++;
         }
         return res;
     }
