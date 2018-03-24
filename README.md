@@ -8,6 +8,8 @@ Stay tuned for updates.
 
 | # Title                                  | Bug free    | Difficulty | Tags                                     | Solution & Analysis & Note               |
 | ---------------------------------------- | ----------- | ---------- | ---------------------------------------- | ---------------------------------------- |
+| [1.Two Sum](https://leetcode.com/problems/two-sum/description/) | `3/24/2018`   | Easy| `Array` `Hash Table`             | [c++](./C++/1.two-sum.cpp) |
+| [167.Two Sum](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |  ✖   | Easy| `Array` `Two Pointers` `Binary-search Tree`             | [c++](./C++/167.two-sum-ii-input-array-is-sorted.cpp) |
 | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | ✖   | Medium     | `Array` `Two Pointers`             | [c++](./C++/11.container-with-most-water.cpp) |
 | [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |   ✖ | Hard     | `Array` `Two Pointers`   `stack`          | [c++](./C++/42.trapping-rain-water/description.cpp) |
 | [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |  | Medium     | `Array` `Two Pointers`             | [c++](./C++/16.3sum-closest.cpp) |
