@@ -9,10 +9,10 @@ Stay tuned for updates.
 | # Title                                  | Bug free    | Difficulty | Tags                                     | Solution & Analysis & Note               |
 | ---------------------------------------- | ----------- | ---------- | ---------------------------------------- | ---------------------------------------- |
 | [1.Two Sum](https://leetcode.com/problems/two-sum/description/) | `3/24/2018`   | Easy| `Array` `Hash Table`             | [c++](./C++/1.two-sum.cpp) |
-| [167.Two Sum](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |  ✖   | Easy| `Array` `Two Pointers` `Binary-search Tree`             | [c++](./C++/167.two-sum-ii-input-array-is-sorted.cpp) |
+| [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |  ✖   | Easy| `Array` `Two Pointers` `Binary-search Tree`             | [c++](./C++/167.two-sum-ii-input-array-is-sorted.cpp) |
 | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | ✖   | Medium     | `Array` `Two Pointers`             | [c++](./C++/11.container-with-most-water.cpp) |
 | [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |   ✖ | Hard     | `Array` `Two Pointers`   `stack`          | [c++](./C++/42.trapping-rain-water/description.cpp) |
-| [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |  | Medium     | `Array` `Two Pointers`             | [c++](./C++/16.3sum-closest.cpp) |
+| [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |`3/26/2018`  | Medium     | `Array` `Two Pointers`             | [c++](./C++/16.3sum-closest.cpp) |
 | [18.4Sum](https://leetcode.com/problems/4sum/description/) |  | Medium     | `Array` `Hash Table` `Two Pointers`             | [c++](./C++/18.4sum.cpp) |
 | [454.4Sum II](https://leetcode.com/problems/4sum-ii/description/) |  | Medium     |  `Hash Table` `Binary Search`             | [c++](./C++/454.4sum-ii.cpp) |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |  | Easy     | `Array`   `Binary Search`             | [c++](./C++/35.search-insert-position.cpp) |
