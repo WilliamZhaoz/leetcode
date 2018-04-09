@@ -18,7 +18,7 @@ Stay tuned for updates.
 | [454.4Sum II](https://leetcode.com/problems/4sum-ii/description/) |  | Medium     |  `Hash Table` `Binary Search`             | [c++](./C++/454.4sum-ii.cpp) |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | `4/4/2018` | Easy     | `Array`   `Binary Search`             | [c++](./C++/35.search-insert-position.cpp) |
 | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |  | Hard     | `Array`            | [c++](./C++/41.first-missing-positive.cpp) |
-| [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |  | Hard     | `Array` `Greedy`             | [c++](./C++/45.jump-game-ii.cpp) |
+| [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | ✖  | Hard     | `Array` `Greedy`             | [c++](./C++/45.jump-game-ii.cpp) |
 | [55.Jump Game](https://leetcode.com/problems/jump-game/description/) |  ✖| Medium    | `Array` `Greedy`             | [c++](./C++/55.jump-game.cpp) |
 | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |  | Medium    | `Array`              | [c++](./C++/59.spiral-matrix.cpp) |
 | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |  | Medium    | `Array`              | [c++](./C++/59.spiral-matrix-ii.cpp) |

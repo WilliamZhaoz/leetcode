@@ -1,5 +1,6 @@
 class Solution {
 public:
+		// version 1 : greedy O(n)
     bool canJump(vector<int>& nums) {
         if (nums.empty()) {
             return true;
@@ -10,4 +11,5 @@ public:
         }
         return max_pos >= nums.size() - 1;
     }
+    // version 2 : dp O(n2)
 };
