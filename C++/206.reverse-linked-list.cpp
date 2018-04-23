@@ -8,6 +8,7 @@
  */
 class Solution {
 public:
+		// 1.1 and 3 are the best solutions
     // version 1 : 3 pointer iteratively, only reverse one link once move.
     /*
     ListNode* reverseList(ListNode* head) {
@@ -22,6 +23,21 @@ public:
         }
         cur->next = pre;
         return cur;
+    }
+    */
+    /*
+    version 1.1 : reverse iteratively directly
+    
+    ListNode* reverseList(ListNode* head) {
+        ListNode *pre = NULL;
+        while (head) {
+            ListNode *tmp = head->next;
+            head->next = pre;
+            pre = head;
+            head = tmp;
+        }
+        return pre;
+        
     }
     */
     /*
@@ -45,14 +61,13 @@ public:
     // version 3 : another version 2 implement with a dummy pointer before head.
     ListNode* reverseList(ListNode* head) {
         if(!head) return head;
-        if(!head->next) return head;
-        ListNode *pre = head, *cur = pre->next, *dummy_head = new ListNode(0);
+        ListNode *cur = head->next, *dummy_head = new ListNode(0);
         dummy_head->next = head;
         while (cur) {
-            pre->next = cur->next;
+            head->next = cur->next;
             cur->next = dummy_head->next;
             dummy_head->next = cur;
-            cur = pre->next;
+            cur = head->next;
         }
         return dummy_head->next;
     }
