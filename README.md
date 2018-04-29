@@ -14,7 +14,7 @@ Stay tuned for updates.
 | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | ✖   | Medium     | `Array` `Two Pointers`             | [c++](./C++/11.container-with-most-water.cpp) |
 | [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |   ✖ | Hard     | `Array` `Two Pointers`   `stack`          | [c++](./C++/42.trapping-rain-water/description.cpp) |
 | [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |`3/26/2018`  | Medium     | `Array` `Two Pointers`             | [c++](./C++/16.3sum-closest.cpp) |
-| [18.4Sum](https://leetcode.com/problems/4sum/description/) |  | Medium     | `Array` `Hash Table` `Two Pointers`             | [c++](./C++/18.4sum.cpp) |
+| [18.4Sum](https://leetcode.com/problems/4sum/description/) |   ✖ | Medium     | `Array` `Hash Table` `Two Pointers`             | [c++](./C++/18.4sum.cpp) |
 | [454.4Sum II](https://leetcode.com/problems/4sum-ii/description/) |  | Medium     |  `Hash Table` `Binary Search`             | [c++](./C++/454.4sum-ii.cpp) |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | `4/4/2018` | Easy     | `Array`   `Binary Search`             | [c++](./C++/35.search-insert-position.cpp) |
 | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |  | Hard     | `Array`            | [c++](./C++/41.first-missing-positive.cpp) |
