@@ -41,11 +41,7 @@ Stay tuned for updates.
 | [206.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |    ✖        | Easy       | `Linked List`                          | [c++](./C++/206.reverse-linked-list.cpp) |
 | [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |     ✖     | Medium      | `Linked List`                          | [c++](./C++/92.reverse-linked-list-ii.cpp) |
 | [145.Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | ✖           | Hard       | `Stack` `Tree`                           | [c++](./C++/145.binary-tree-postorder-traversal.cpp) |
-
 | [235.Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | `3/10/2018` | Easy | `Tree` | [c++](./C++/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) |
-| ---------------------------------------- | ----------- | ---- | ------ | ---------------------------------------- |
-|                                          |             |      |        |                                          |
-
 | [236.Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | ✖           | Medium     | `Tree`                                   | [c++](./C++/236.lowest-common-ancestor-of-a-binary-tree.cpp) |
 | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | ✖           | Easy       | `Tree` `Recursion`                       | [c++](./C++/687.longest-univalue-path.cpp) |
 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) |   `3/22/2018`          | Easy       | `Tree`                                   |    [c++](./C++/501.find-mode-in-binary-search-tree.cpp)                                      |
