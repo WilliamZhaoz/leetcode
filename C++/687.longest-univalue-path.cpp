@@ -37,10 +37,10 @@ public:
 private:
     int dfs(TreeNode* node, int& lup) {
         int l = node->left ? dfs(node->left, lup) : 0;
-        int r = node->right ? dfs(node->right, lup) : 0;
+        int r = node->right ? dfs(node->right, lup) : 0; // deep the tree
         int resl = node->left && node->left->val == node->val ? l + 1 : 0;
-        int resr = node->right && node->right->val == node->val ? r + 1 : 0;
-        lup = max(lup, resl + resr);
-        return max(resl, resr);
+        int resr = node->right && node->right->val == node->val ? r + 1 : 0; // result include current root
+        lup = max(lup, resl + resr); // refresh the result, only in this step, two half added up
+        return max(resl, resr); // all values are half
     }
 };
