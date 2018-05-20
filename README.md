@@ -9,12 +9,12 @@ Stay tuned for updates.
 | # Title                                  | Bug free    | Difficulty | Tags                                     | Solution & Analysis & Note               |
 | ---------------------------------------- | ----------- | ---------- | ---------------------------------------- | ---------------------------------------- |
 | [1.Two Sum](https://leetcode.com/problems/two-sum/description/) | `3/24/2018` | Easy       | `Array` `Hash Table`                     | [c++](./C++/1.two-sum.cpp)               |
-| [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | `5/16/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/11.container-with-most-water.cpp) |
+| [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | `5/20/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/11.container-with-most-water.cpp) |
 | [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | `3/26/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/16.3sum-closest.cpp)         |
 | [18.4Sum](https://leetcode.com/problems/4sum/description/) | ✖           | Medium     | `Array` `Hash Table` `Two Pointers`      | [c++](./C++/18.4sum.cpp)                 |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | `4/4/2018`  | Easy       | `Array`   `Binary Search`                | [c++](./C++/35.search-insert-position.cpp) |
-| [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | ✖ | Hard       | `Array`                                  | [c++](./C++/41.first-missing-positive.cpp) |
-| [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | ✖           | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water/description.cpp) |
+| [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | `5/20/2018` | Hard       | `Array`                                  | [c++](./C++/41.first-missing-positive.cpp) |
+| [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `5/20/2018` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
 | [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018`          | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
 | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |             | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
 | [55.Jump Game](https://leetcode.com/problems/jump-game/description/) | `5/2/2018`  | Medium     | `Array` `Greedy`                         | [c++](./C++/55.jump-game.cpp)            |
@@ -35,7 +35,7 @@ Stay tuned for updates.
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |       ✖       | Hard       | `Tree` `Depth-first Search`              |     [c++](./C++/124.binary-tree-maximum-path-sum.cpp)   |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |       `3/21/2018`     | Medium       | `Tree` `Depth-first Search`              |     [c++](./C++/129.sum-root-to-leaf-numbers.cpp)                               |
 | [144.Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | `5/17/2018`  | Medium     | `Stack` `Tree`                           | [c++](./C++/144.binary-tree-preorder-traversal.cpp) |
-| [145.Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | ✖           | Hard       | `Stack` `Tree`                           | [c++](./C++/145.binary-tree-postorder-traversal.cpp) |
+| [145.Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | `5/20/2018` | Hard       | `Stack` `Tree`                           | [c++](./C++/145.binary-tree-postorder-traversal.cpp) |
 | [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | ✖           | Easy       | `Array` `Two Pointers` `Binary-search Tree` | [c++](./C++/167.two-sum-ii-input-array-is-sorted.cpp) |
 | [206.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |    ✖        | Easy       | `Linked List`                          | [c++](./C++/206.reverse-linked-list.cpp) |
 | [235.Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | `3/10/2018` | Easy | `Tree` | [c++](./C++/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) |
