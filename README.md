@@ -18,7 +18,7 @@ Stay tuned for updates.
 | [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018`          | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
 | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | ✖ | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
 | [55.Jump Game](https://leetcode.com/problems/jump-game/description/) | `5/2/2018`  | Medium     | `Array` `Greedy`                         | [c++](./C++/55.jump-game.cpp)            |
-| [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |             | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
+| [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | `6/2/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
 | [78. Subsets](https://leetcode.com/problems/subsets/description/) |             | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) |             | Medium     | `Array` `Backtracking`                   | [c++](./C++/78.subsets-ii.cpp)           |
