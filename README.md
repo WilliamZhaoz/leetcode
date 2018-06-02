@@ -16,7 +16,7 @@ Stay tuned for updates.
 | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | `5/20/2018` | Hard       | `Array`                                  | [c++](./C++/41.first-missing-positive.cpp) |
 | [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `5/20/2018` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
 | [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018`          | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
-| [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |             | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
+| [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | ✖ | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
 | [55.Jump Game](https://leetcode.com/problems/jump-game/description/) | `5/2/2018`  | Medium     | `Array` `Greedy`                         | [c++](./C++/55.jump-game.cpp)            |
 | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |             | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
