@@ -44,6 +44,23 @@ public:
         return res;
     }
     */  
+    // dfs
+    vector<vector<int> > result;
+    void dfs(vector<int> tmp, int x , vector<int> nums) {
+        if (x == nums.size()) {
+            result.push_back(tmp);
+            return ;
+        }
+        dfs(tmp, x + 1, nums);
+        tmp.push_back(nums[x]);
+        dfs(tmp, x + 1, nums);
+    }
+    vector<vector<int> > subsets(vector<int> &nums){
+        sort(nums.begin(), nums.end());
+        vector<int> tmp;
+    	dfs(tmp, 0 , nums) ;
+    	return result;
+    }
     // bfs
    
     

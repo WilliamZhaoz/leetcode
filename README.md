@@ -9,19 +9,19 @@ Stay tuned for updates.
 | # Title                                  | Bug free    | Difficulty | Tags                                     | Solution & Analysis & Note               |
 | ---------------------------------------- | ----------- | ---------- | ---------------------------------------- | ---------------------------------------- |
 | [1.Two Sum](https://leetcode.com/problems/two-sum/description/) | `3/24/2018` | Easy       | `Array` `Hash Table`                     | [c++](./C++/1.two-sum.cpp)               |
-| [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | `5/20/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/11.container-with-most-water.cpp) |
+| [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | `6/3/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/11.container-with-most-water.cpp) |
 | [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | `3/26/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/16.3sum-closest.cpp)         |
 | [18.4Sum](https://leetcode.com/problems/4sum/description/) | `5/23/2018`          | Medium     | `Array` `Hash Table` `Two Pointers`      | [c++](./C++/18.4sum.cpp)                 |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | `4/4/2018`  | Easy       | `Array`   `Binary Search`                | [c++](./C++/35.search-insert-position.cpp) |
 | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | `5/20/2018` | Hard       | `Array`                                  | [c++](./C++/41.first-missing-positive.cpp) |
-| [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `5/20/2018` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
+| [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `6/3/2018` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
 | [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018`          | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
 | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | ✖ | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
 | [55.Jump Game](https://leetcode.com/problems/jump-game/description/) | `5/2/2018`  | Medium     | `Array` `Greedy`                         | [c++](./C++/55.jump-game.cpp)            |
 | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | `6/2/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | ✖ | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
-| [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) |             | Medium     | `Array` `Backtracking`                   | [c++](./C++/78.subsets-ii.cpp)           |
+| [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) | `6/3/2018` | Medium     | `Array` `Backtracking`                   | [c++](./C++/90.subsets-ii.cpp)        |
 | [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |     ✖     | Medium      | `Linked List`                          | [c++](./C++/92.reverse-linked-list-ii.cpp) |
 | [94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | `5/17/1018`  | Medium     | `Hash Table` `Stack` `Tree`              | [c++](./C++/94.binary-tree-inorder-traversal.cpp) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | `3/13/2018` | Medium     | `Tree` `Depth-first Search`              | [c++](./C++/98.validate-binary-search-tree.cpp) |
@@ -40,7 +40,7 @@ Stay tuned for updates.
 | [206.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |    `5/21/2018`    | Easy       | `Linked List`                          | [c++](./C++/206.reverse-linked-list.cpp) |
 | [235.Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | `3/10/2018` | Easy | `Tree` | [c++](./C++/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) |
 | [236.Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | ✖           | Medium     | `Tree`                                   | [c++](./C++/236.lowest-common-ancestor-of-a-binary-tree.cpp) |
-| [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `3/24/2018` | Medium     | `Array`                                  | [c++](./C++/238.product-of-array-except-self.cpp) |
+| [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `6/3/2018` | Medium     | `Array`                                  | [c++](./C++/238.product-of-array-except-self.cpp) |
 | [407.Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) |             | Hard       | `Array` `Breadth-first Search`           | [c++](./C++/407.trapping-rain-water-ii/description.cpp) |
 | [454.4Sum II](https://leetcode.com/problems/4sum-ii/description/) |             | Medium     | `Hash Table` `Binary Search`             | [c++](./C++/454.4sum-ii.cpp)             |
 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) |   `3/22/2018`          | Easy       | `Tree`                                   |    [c++](./C++/501.find-mode-in-binary-search-tree.cpp)                                      |
