@@ -27,8 +27,8 @@ Stay tuned for updates.
 | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | `6/2/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
 | [60.Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |  | Medium     | `Math` `Backtracking`                                 | [c++](./C++/60.permutation-sequence.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
-| [78. Subsets](https://leetcode.com/problems/subsets/description/) | `6/8/2018` | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
-| [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) | `6/3/2018` | Medium     | `Array` `Backtracking`                   | [c++](./C++/90.subsets-ii.cpp)        |
+| [78. Subsets](https://leetcode.com/problems/subsets/description/) | `6/12/2018` | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
+| [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) | `6/12/2018` | Medium     | `Array` `Backtracking`                   | [c++](./C++/90.subsets-ii.cpp)        |
 | [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |     ✖     | Medium      | `Linked List`                          | [c++](./C++/92.reverse-linked-list-ii.cpp) |
 | [93.Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |         | Medium      | `String` `Backtracking`                          | [c++](./C++/93.restore-ip-addresses.cpp) |
 | [94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | `5/17/1018`  | Medium     | `Hash Table` `Stack` `Tree`              | [c++](./C++/94.binary-tree-inorder-traversal.cpp) |
