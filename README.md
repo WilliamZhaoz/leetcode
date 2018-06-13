@@ -21,7 +21,7 @@ Stay tuned for updates.
 | [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `6/3/2018` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
 | [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018`          | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
 | [46. Permutations](https://leetcode.com/problems/permutations/description/) |      ✖     | Medium      | `Backtracking`                         | [c++](./C++/46.permutations.cpp)         |
-| [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) |          | Medium      | `Backtracking`                         | [c++](./C++/47.permutations-ii.cpp)         |
+| [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) |    ✖      | Medium      | `Backtracking`                         | [c++](./C++/47.permutations-ii.cpp)         |
 | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | ✖ | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
 | [55.Jump Game](https://leetcode.com/problems/jump-game/description/) | `5/2/2018`  | Medium     | `Array` `Greedy`                         | [c++](./C++/55.jump-game.cpp)            |
 | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | `6/2/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
