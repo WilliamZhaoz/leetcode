@@ -30,7 +30,7 @@ Stay tuned for updates.
 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | `6/12/2018` | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) | `6/12/2018` | Medium     | `Array` `Backtracking`                   | [c++](./C++/90.subsets-ii.cpp)        |
 | [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |     ✖     | Medium      | `Linked List`                          | [c++](./C++/92.reverse-linked-list-ii.cpp) |
-| [93.Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |         | Medium      | `String` `Backtracking`                          | [c++](./C++/93.restore-ip-addresses.cpp) |
+| [93.Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | ✖ | Medium      | `String` `Backtracking`                          | [c++](./C++/93.restore-ip-addresses.cpp) |
 | [94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | `5/17/1018`  | Medium     | `Hash Table` `Stack` `Tree`              | [c++](./C++/94.binary-tree-inorder-traversal.cpp) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | `3/13/2018` | Medium     | `Tree` `Depth-first Search`              | [c++](./C++/98.validate-binary-search-tree.cpp) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | `3/9/2018`  | Medium     | `Tree` `Breadth-first Search`            | [c++](./C++/102.binary-tree-level-order-traversal.cpp) |
