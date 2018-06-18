@@ -41,9 +41,9 @@ public:
             if (visited[i]) {
                 continue;
             }
-            if (i > 0 && nums[i] == nums[i - 1] && !visited[i - 1]) {
-                continue;
-            }
+            //if (i > 0 && nums[i] == nums[i - 1] && !visited[i - 1]) {
+            //    continue;
+            //}
             visited[i] = true;
             p.push_back(nums[i]);
             helper(res, nums, visited, p);
