@@ -34,3 +34,34 @@ public:
         }
     }
 };
+
+// new version 6/21/2018
+/*
+class Solution {
+public:
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> res;
+        if (candidates.size() == 0) {
+            return res;
+        }
+        vector<int> c;
+        helper(res, c, candidates, target, 0);
+        return res;
+    }
+    void helper(vector<vector<int>> &res, vector<int> &c, vector<int> &candidates, int target, int start) {
+        if (target <= 0) {
+            if (target == 0) {
+                res.push_back(c);
+            }
+            return;
+        }
+        for (int i = start; i < candidates.size(); i++) {
+            c.push_back(candidates[i]);
+            target -= candidates[i];
+            helper(res, c, candidates, target, i);
+            c.pop_back();
+            target += candidates[i];
+        }
+    }
+};
+*/

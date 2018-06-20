@@ -20,7 +20,9 @@ public:
             return;
         }
         for (int i = start; i < candidates.size(); i++) {
-            if (i > 0 && candidates[i] == candidates[i - 1] && !visited[i - 1]) {
+        		// if candidates[i] == candidates[i - 1], only when visited[i - 1] == true, candidates[i] can add or not, in this way, the same number only add
+        		// different times but no permutations.
+            if (i > 0 && candidates[i] == candidates[i - 1] && !visited[i - 1]) { 
                 continue;
             }
             visited[i] = true;
