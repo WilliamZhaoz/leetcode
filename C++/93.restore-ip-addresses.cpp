@@ -1,93 +1,88 @@
+// version 1 devide by point
+/*
 class Solution {
 public:
-    // version 1 : backtracking by point.
-    /*
     vector<string> restoreIpAddresses(string s) {
         vector<string> res;
-        if (s.size() < 4 || s.size() > 12) {
+        if (s.size() > 12 || s.size() < 4) {
             return res;
         }
-        help(s, res, 0, 1);
+        helper(res, s, 0, 1);
         return res;
     }
-    void help(string s, vector<string> &res, int n, int start) {
+    void helper(vector<string> &res, string s, int n, int start) {
         if (n == 3) {
-            if (isIpAddress(s)) {
-                res.push_back(s);    
+            if (valid(s)) {
+                res.push_back(s);
             }
             return;
         }
         for (int i = start; i < s.size(); i++) {
             s.insert(i, ".");
-            help(s, res, n + 1, i + 2);
+            helper(res, s, n + 1, i + 2);
             s.erase(i, 1);
         }
     }
-    bool isIpAddress(string s) {
-        int tmp = 0;
+    bool valid(string s) {
+        int tmp = 0; 
         for (int i = 0; i < s.size(); i++) {
-            if (tmp == 0 && s[i] == '0' && i + 1 < s.size() && s[i + 1] != '.') {
-                return false;
-            }
             if (s[i] == '.') {
-                if (tmp < 0 || tmp > 255) {
-                    return false;
-                }
                 tmp = 0;
                 continue;
             }
-            tmp = tmp * 10 + s[i] - '0'; 
-        }
-        if (tmp < 0 || tmp > 255) {
-            return false;
+            if (s[i] == '0' && tmp == 0 && i + 1 < s.size() && s[i + 1] != '.') {
+                return false;
+            }
+            tmp = tmp * 10 + s[i] - '0';
+            if (tmp > 255) {
+                return false;
+            }
         }
         return true;
-            
     }
-    */
-    // version 2 : backtracking by number.
-    /*
+};
+*/
+// version 2
+/*
+class Solution {
+public:
     vector<string> restoreIpAddresses(string s) {
         vector<string> res;
-        vector<string> list;
-        if (s.size() < 4 || s.size() > 12) {
+        if (s.size() > 12 || s.size() < 4) {
             return res;
         }
-        helper(res, list, s, 0);
+        string ip;
+        helper(res, s, ip, 0, 0);
         return res;
     }
-    void helper(vector<string> &res, vector<string> &list, string s, int start) {
-        if (list.size() == 4) {
-            if (start != s.size()) {
-                return;                       
-            }
-            string tmp;
-            for (auto l : list) {
-                tmp += l;
-                tmp += '.';
-            }
-            tmp.erase(tmp.size() - 1, 1);
-            res.push_back(tmp);
+    void helper(vector<string> &res, string s, string ip, int n, int start) {
+        if (n == 4 && start == s.size()) {
+        // if (n == 4 && ip.size() == s.size() + 4) {
+            ip.pop_back();
+            res.push_back(ip);
             return;
         }
-        for (int i = 0; start + i < s.size() && i < 3; i++) {
-            string tmp = s.substr(start, i + 1);
-            if (valid(tmp)) {
-                list.push_back(tmp);
-                helper(res, list, s, start + i + 1);
-                list.pop_back();
+        for (int i = 1; i <= 3; i++) {
+            if (start + i - 1 > s.size() - 1 || !valid(s.substr(start, i))) {
+                return;
             }
+            ip.append(s.substr(start, i).append("."));
+            helper(res, s, ip, n + 1, start + i);
+            ip = ip.substr(0, ip.size() - 1 - i);   
         }
     }
     bool valid(string s) {
         if (s[0] == '0') {
             return s == "0";
         }
-        int tmp = atoi(s.c_str());
-        return tmp >= 0 && tmp <= 255;
+        int tmp = stoi(s);
+        return tmp <= 255;
     }
-    */
-    // version 3 : for loop directly
+};
+*/
+// version 3 for loop directly
+class Solution {
+public:
     vector<string> restoreIpAddresses(string s) {
         vector<string> res;
         for (int i = 1; i <= 3; i++) {
@@ -127,7 +122,4 @@ public:
         }
         return tmp < 256;
     }
-    
-    
-    
 };
