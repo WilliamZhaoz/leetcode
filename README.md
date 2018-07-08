@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
 
-Up to date (2018-3-6), there are `710` Algorithms questions on [LeetCode Online Judge](https://leetcode.com/).  
+Up to date (2018-7-8), there are `833` Algorithms questions on [LeetCode Online Judge](https://leetcode.com/).  
 The number of questions is increasing continually.  
 Here are the Solutions of some of these questions.  
 I'll keep updating for full summary and better Solution & Analysis. 
@@ -103,41 +103,41 @@ Stay tuned for updates.
 | [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |          | Hard     |`Binary Search`   `Heap`                     | [c++](./C++/786.k-th-smallest-prime-fraction.cpp)|
 | [793. K-th Smallest Prime Fraction](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |          | Hard     |`Binary Search`                   | [c++](./C++/793.preimage-size-of-factorial-zeroes-function.cpp)|
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | `★☆☆` | Easy    |`Binary Search`                   | [c++](./C++/852.peak-index-in-a-mountain-array.cpp)|
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
+| [868. Transpose Matrix ](https://leetcode.com/problems/transpose-matrix/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/868.transpose-matrix.cpp) |
+| [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/832.flipping-an-image.cpp) |
+| [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/561.Array Partition I.cpp) |
+| [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/766.toeplitz-matrix.cpp) |
+| [566. Reshape the Matrix ](https://leetcode.com/problems/reshape-the-matrix/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/.cpp) |
+| [485. Max Consecutive Ones ](https://leetcode.com/problems/max-consecutive-ones/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/485.max-consecutive-ones.cpp) |
+| [695. Max Area of Island ](https://leetcode.com/problems/max-area-of-island/description/) | `★☆☆` | Easy | `Array` `Depth-first search` | [c++](./C++/695.max-area-of-island.cpp) |
+| [283. Move Zeroes ](https://leetcode.com/problems/move-zeroes/description/) | `7/8/2018` | Easy | `Array` `Two Pointers` | [c++](./C++/283.move-zeroes.cpp) |
+| [448. Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/448.find-all-numbers-disappeared-in-an-array.cpp) |
+| [717. 1-bit and 2-bit Characters ](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/717.1-bit-and-2-bit-characters.cpp) |
+| [169. Majority Element ](https://leetcode.com/problems/majority-element/description/) | `★☆☆` | Easy | `Array` `Devide and Conquer` `Bit manipulation` | [c++](./C++/169.majority-element.cpp) |
+| [122. Best Time to Buy and Sell Stock II ]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ ) | `★☆☆` | Easy | `Array` `Greedy` | [c++](./C++/122.best-time-to-buy-and-sell-stock-ii.cpp) |
+| [217. Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/description/) | `7/8/2018` | Easy | `Array` `Hash Table` | [c++](./C++/217.contains-duplicate.cpp) |
+| [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/697.degree-of-an-array.cpp) |
+| [830. Positions of Large Groups ](https://leetcode.com/problems/positions-of-large-groups/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/830.positions-of-large-groups.cpp) |
+| [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/661.image-smoother.cpp) |
+| [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
+| [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/628.maximum-product-of-three-numbers.cpp) |
+| [746. Min Cost Climbing Stairs ](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | `7/8/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/746.min-cost-climbing-stairs.cpp) |
+| [121. Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | `7/8/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/121.best-time-to-buy-and-sell-stock.cpp) |
+| [674.Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/674.longest-continuous-increasing-subsequence.cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+|                                          |             |            |                                          | [c++](./C++/..cpp) |
+|                                          |             |            |                                          | [c++](./C++/..cpp) |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
