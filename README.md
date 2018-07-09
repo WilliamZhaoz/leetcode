@@ -126,10 +126,10 @@ Stay tuned for updates.
 | [674.Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/674.longest-continuous-increasing-subsequence.cpp) |
 | [127. Remove Element](https://leetcode.com/problems/remove-element/description/) | `7/9/2018` | Easy | `Array` `Two Pointers` | [c++](./C++/127.remove-element.cpp) |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | `7/9/2018` | Easy | `Array` | [c++](./C++/118.pascals-triangle.cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+| [747. Largest Number At Least Twice of Others ](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/747.largest-number-at-least-twice-of-others.cpp) |
+| [53. Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/) | `★☆☆` | Easy | `Array` `Devide and Conquer` `Dynamic Programming` | [c++](./C++/53.problems/maximum-subarray.cpp) |
+| [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★☆☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
+| [724. Find Pivot Index ](https://leetcode.com/problems/find-pivot-index/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/724.find-pivot-index.cpp) |
 |                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
 |                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
 |                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
