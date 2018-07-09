@@ -124,8 +124,8 @@ Stay tuned for updates.
 | [746. Min Cost Climbing Stairs ](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | `7/8/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/746.min-cost-climbing-stairs.cpp) |
 | [121. Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | `7/8/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/121.best-time-to-buy-and-sell-stock.cpp) |
 | [674.Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/674.longest-continuous-increasing-subsequence.cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
+| [127. Remove Element](https://leetcode.com/problems/remove-element/description/) | `7/9/2018` | Easy | `Array` `Two Pointers` | [c++](./C++/127.remove-element.cpp) |
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | `7/9/2018` | Easy | `Array` | [c++](./C++/118.pascals-triangle.cpp) |
 |                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
 |                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
 |                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
