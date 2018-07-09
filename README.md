@@ -130,13 +130,22 @@ Stay tuned for updates.
 | [53. Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/) | `★☆☆` | Easy | `Array` `Devide and Conquer` `Dynamic Programming` | [c++](./C++/53.problems/maximum-subarray.cpp) |
 | [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★☆☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
 | [724. Find Pivot Index ](https://leetcode.com/problems/find-pivot-index/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/724.find-pivot-index.cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             | Easy | `Array` | [c++](./C++/..cpp) |
-|                                          |             |            |                                          | [c++](./C++/..cpp) |
+|  [119.Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)                                        |          `★☆☆`   | Easy | `Array` | [c++](./C++/119.pascals-triangle-ii.cpp) |
+|   [849.Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)                                       |         `7/10/2018`    | Easy | `Array` | [c++](./C++/849.maximize-distance-to-closest-person.cpp) |
+|          [643.Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                |       `★☆☆`       | Easy | `Array` | [c++](./C++/643.maximum-average-subarray-i.cpp) |
+|   [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                       |       `7/10/2018`      | Easy | `Array` | [c++](./C++/26.remove-duplicates-from-sorted-array.cpp) |
+|     [840.Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)                                     |         `7/10/2018`    | Easy | `Array` | [c++](./C++/840.magic-squares-in-grid.cpp) |
+|             [219.Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                             |         `★☆☆`      | Easy | `Array` `Hash Table` | [c++](./C++/219.contains-duplicate-ii.cpp) |
+|    [88.Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                      |         `★☆☆`       |        Easy    |         `Array`                                 `Two Pointers`| [c++](./C++/88.merge-sorted-array.cpp) |
+|    [189.Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                      |         `★☆☆`      |        Easy    |         `Array`                                 | [c++](./C++/189.rotate-array.cpp) |
+|    [665.Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)                                      |          ✖       |        Easy    |         `Array`                                 | [c++](./C++/665.non-decreasing-array.cpp) |
+|    [414.Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)                                      |          `★☆☆`    |        Easy    |         `Array`                                 | [c++](./C++/414.third-maximum-number.cpp) |
+|    [532.K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)                                      |             |        Easy    |         `Array`    `Hash Table` `Two Pointers`                             | [c++](./C++/532.k-diff-pairs-in-an-array.cpp) |
+|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
+|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
+|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
+|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
+|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
 |                                          |             |            |                                          | [c++](./C++/..cpp) |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
