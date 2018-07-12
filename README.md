@@ -102,9 +102,9 @@ Stay tuned for updates.
 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |          | Hard     |`Binary Search`   `Heap` `Depth-first Search` `Union Find`                    | [c++](./C++/778.swim-in-rising-water.cpp)|
 | [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |          | Hard     |`Binary Search`   `Heap`                     | [c++](./C++/786.k-th-smallest-prime-fraction.cpp)|
 | [793. K-th Smallest Prime Fraction](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |          | Hard     |`Binary Search`                   | [c++](./C++/793.preimage-size-of-factorial-zeroes-function.cpp)|
+| [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/832.flipping-an-image.cpp) |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | `★☆☆` | Easy    |`Binary Search`                   | [c++](./C++/852.peak-index-in-a-mountain-array.cpp)|
 | [868. Transpose Matrix ](https://leetcode.com/problems/transpose-matrix/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/868.transpose-matrix.cpp) |
-| [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/832.flipping-an-image.cpp) |
 | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/561.Array Partition I.cpp) |
 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/766.toeplitz-matrix.cpp) |
 | [566. Reshape the Matrix ](https://leetcode.com/problems/reshape-the-matrix/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/.cpp) |
@@ -116,10 +116,10 @@ Stay tuned for updates.
 | [169. Majority Element ](https://leetcode.com/problems/majority-element/description/) | `★☆☆` | Easy | `Array` `Devide and Conquer` `Bit manipulation` | [c++](./C++/169.majority-element.cpp) |
 | [122. Best Time to Buy and Sell Stock II ]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ ) | `★☆☆` | Easy | `Array` `Greedy` | [c++](./C++/122.best-time-to-buy-and-sell-stock-ii.cpp) |
 | [217. Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/description/) | `7/8/2018` | Easy | `Array` `Hash Table` | [c++](./C++/217.contains-duplicate.cpp) |
+| [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
 | [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/697.degree-of-an-array.cpp) |
 | [830. Positions of Large Groups ](https://leetcode.com/problems/positions-of-large-groups/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/830.positions-of-large-groups.cpp) |
 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/661.image-smoother.cpp) |
-| [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
 | [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/628.maximum-product-of-three-numbers.cpp) |
 | [746. Min Cost Climbing Stairs ](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | `7/8/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/746.min-cost-climbing-stairs.cpp) |
 | [121. Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | `7/8/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/121.best-time-to-buy-and-sell-stock.cpp) |
@@ -140,28 +140,28 @@ Stay tuned for updates.
 |    [189.Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                      |         `★☆☆`      |        Easy    |         `Array`                                 | [c++](./C++/189.rotate-array.cpp) |
 |    [665.Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)                                      |          ✖       |        Easy    |         `Array`                                 | [c++](./C++/665.non-decreasing-array.cpp) |
 |    [414.Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)                                      |          `★☆☆`    |        Easy    |         `Array`                                 | [c++](./C++/414.third-maximum-number.cpp) |
-|    [532.K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)                                      |             |        Easy    |         `Array`    `Hash Table` `Two Pointers`                             | [c++](./C++/532.k-diff-pairs-in-an-array.cpp) |
-|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
-|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
-|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
-|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
-|    []()                                      |             |        Easy    |         `Array`                                 | [c++](./C++/..cpp) |
-|                                          |             |            |                                          | [c++](./C++/..cpp) |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
-|                                          |             |            |                                          |                                          |
+|    [532.K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)                                      | `★☆☆` |        Easy    |         `Array`    `Hash Table` `Two Pointers`                             | [c++](./C++/532.k-diff-pairs-in-an-array.cpp) |
+| [581.Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | ✖ |        Easy    |         `Array`                                 | [c++](./C++/581.shortest-unsorted-continuous-subarray.cpp) |
+| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | `★☆☆` |        Easy    |         `Array`                                 | [c++](./C++/605.can-place-flowers.cpp) |
+| [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)  | `7/11/2018` |  Medium    |         `Array`                                 | [c++](./C++/442.find-all-duplicates-in-an-array.cpp) |
+| [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | `7/12/2018` |  Medium    |         `Array`                                 | [c++](./C++/495.teemo-attacking.cpp) |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `7/12/2018` |  Medium    |         `Array`                                 | [c++](./C++/238.product-of-array-except-self.cpp) |
+| [667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/667.beautiful-arrangement-ii.cpp) |
+| [565.Array Nesting](https://leetcode.com/problems/array-nesting/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/565.array-nesting.cpp) |
+| [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/769.max-chunks-to-make-sorted.cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
