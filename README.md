@@ -152,12 +152,12 @@ Stay tuned for updates.
 | [714.Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |  `★☆☆`            | Medium | `Array` `Greedy` `Dynamic Programming`| [c++](./C++/714.best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) |
 | [62.Unique Paths](https://leetcode.com/problems/unique-paths/description/) |      `★☆☆`       | Medium | `Array` | [c++](./C++/62.unique-paths.cpp) |
 | [48.Rotate Image](https://leetcode.com/problems/rotate-image/description/) |       `★☆☆`         | Medium | `Array` | [c++](./C++/48.rotate-image.cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| [729.My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) |       ✖          | Medium | `Array` | [c++](./C++/729.my-calendar-i.cpp) |
+| [621.Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) |        ✖       | Medium | `Array` `Queue` `Greedy` | [c++](./C++/621.task-scheduler.cpp) |
+| [611.Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) |             | Medium | `Array` `Binary Search` `Tow Pointers` | [c++](./C++/611.valid-triangle-number.cpp) |
+| [64.https://leetcode.com/problems/minimum-path-sum/description/](https://leetcode.com/problems/minimum-path-sum/description/) |     `★☆☆`           | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
+| [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `★☆☆`        | Medium | `Array` | [c++](./C++/75.sort-colors.cpp) |
+| [80.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |    `★☆☆`           | Medium | `Array` `Two Pointers` | [c++](./C++/80.remove-duplicates-from-sorted-array-ii.cpp) |
 | []() |             | Medium | `Array` | [c++](./C++/..cpp) |
 | []() |             | Medium | `Array` | [c++](./C++/..cpp) |
 | []() |             | Medium | `Array` | [c++](./C++/..cpp) |
