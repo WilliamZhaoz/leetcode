@@ -149,9 +149,9 @@ Stay tuned for updates.
 | [667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/667.beautiful-arrangement-ii.cpp) |
 | [565.Array Nesting](https://leetcode.com/problems/array-nesting/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/565.array-nesting.cpp) |
 | [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/769.max-chunks-to-make-sorted.cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| [714.Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |  `★☆☆`            | Medium | `Array` `Greedy` `Dynamic Programming`| [c++](./C++/714.best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) |
+| [62.Unique Paths](https://leetcode.com/problems/unique-paths/description/) |      `★☆☆`       | Medium | `Array` | [c++](./C++/62.unique-paths.cpp) |
+| [48.Rotate Image](https://leetcode.com/problems/rotate-image/description/) |       `★☆☆`         | Medium | `Array` | [c++](./C++/48.rotate-image.cpp) |
 | []() |             | Medium | `Array` | [c++](./C++/..cpp) |
 | []() |             | Medium | `Array` | [c++](./C++/..cpp) |
 | []() |             | Medium | `Array` | [c++](./C++/..cpp) |
