@@ -168,10 +168,28 @@ Stay tuned for updates.
 | [64.https://leetcode.com/problems/minimum-path-sum/description/](https://leetcode.com/problems/minimum-path-sum/description/) |     `★☆☆`           | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `★☆☆`        | Medium | `Array` | [c++](./C++/75.sort-colors.cpp) |
 | [80.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |    `★☆☆`           | Medium | `Array` `Two Pointers` | [c++](./C++/80.remove-duplicates-from-sorted-array-ii.cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
-| []() |             | Medium | `Array` | [c++](./C++/..cpp) |
+| [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
+| [792.Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |          `★☆☆`    | Medium | `Array` | [c++](./C++/792.number-of-matching-subsequences.cpp) |
+| [120.Triangle](https://leetcode.com/problems/triangle/description/) |        triangle     | Medium | `Array` `Dynamic Programming` | [c++](./C++/120.triangle.cpp) |
+| [105.Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | `★☆☆`              | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/105.construct-binary-tree-from-preorder-and-inorder-traversal.cpp) |
+| [106.Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | `★☆☆`              | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/106.construct-binary-tree-from-inorder-and-postorder-traversal.cpp) |
+| [775.Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | `★☆☆`              | Medium | `Array` `Math` | [c++](./C++/775.global-and-local-inversions.cpp) |
+| [713.Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | `★☆☆`              | Medium | `Array` `Two Points` | [c++](./C++/713.subarray-product-less-than-k.cpp) |
+| [560.Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | `★☆☆`              | Medium | `Array` `Hash Table` | [c++](./C++/560.subarray-sum-equals-k.cpp) |
+| [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `★☆☆`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.Unique Paths II.cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
