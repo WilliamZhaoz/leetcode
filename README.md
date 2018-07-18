@@ -177,12 +177,12 @@ Stay tuned for updates.
 | [713.Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | `★☆☆`              | Medium | `Array` `Two Points` | [c++](./C++/713.subarray-product-less-than-k.cpp) |
 | [560.Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | `★☆☆`              | Medium | `Array` `Hash Table` | [c++](./C++/560.subarray-sum-equals-k.cpp) |
 | [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `★☆☆`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.Unique Paths II.cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [79.Word Search](https://leetcode.com/problems/word-search/description/) | `★☆☆`              | Medium | `Array` `Backtracking` | [c++](./C++/79.word-search.cpp) |
+| [31.Next Permutation](https://leetcode.com/problems/next-permutation/description/) | `★☆☆`              | Medium | `Array`  | [c++](./C++/31.next-permutation.cpp) |
+| [229.Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | `★☆☆`              | Medium | `Array`  | [c++](./C++/229.majority-element-ii.cpp) |
+| [56.Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/56.merge-intervals.cpp) |
+| [57.Insert Interval](https://leetcode.com/problems/insert-interval/description/) | `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/57.insert-interval.cpp) |
+| [825.Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) | `★☆☆`              | Medium | `Array`  | [c++](./C++/825.friends-of-appropriate-ages.cpp) |
 | [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
