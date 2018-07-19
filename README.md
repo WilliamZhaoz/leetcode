@@ -124,7 +124,7 @@ Stay tuned for updates.
 | [448. Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/448.find-all-numbers-disappeared-in-an-array.cpp) |
 | [717. 1-bit and 2-bit Characters ](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/717.1-bit-and-2-bit-characters.cpp) |
 | [169. Majority Element ](https://leetcode.com/problems/majority-element/description/) | `★☆☆` | Easy | `Array` `Devide and Conquer` `Bit manipulation` | [c++](./C++/169.majority-element.cpp) |
-| [122. Best Time to Buy and Sell Stock II ]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ ) | `★☆☆` | Easy | `Array` `Greedy` | [c++](./C++/122.best-time-to-buy-and-sell-stock-ii.cpp) |
+| [122. Best Time to Buy and Sell Stock II ]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ ) | `7/20/2018` | Easy | `Array` `Greedy` | [c++](./C++/122.best-time-to-buy-and-sell-stock-ii.cpp) |
 | [217. Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/description/) | `7/8/2018` | Easy | `Array` `Hash Table` | [c++](./C++/217.contains-duplicate.cpp) |
 | [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
 | [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/697.degree-of-an-array.cpp) |
@@ -170,7 +170,7 @@ Stay tuned for updates.
 | [80.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |    `★☆☆`           | Medium | `Array` `Two Pointers` | [c++](./C++/80.remove-duplicates-from-sorted-array-ii.cpp) |
 | [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
 | [792.Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |          `★☆☆`    | Medium | `Array` | [c++](./C++/792.number-of-matching-subsequences.cpp) |
-| [120.Triangle](https://leetcode.com/problems/triangle/description/) |        triangle     | Medium | `Array` `Dynamic Programming` | [c++](./C++/120.triangle.cpp) |
+| [120.Triangle](https://leetcode.com/problems/triangle/description/) |         `★☆☆`      | Medium | `Array` `Dynamic Programming` | [c++](./C++/120.triangle.cpp) |
 | [105.Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | `★☆☆`              | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/105.construct-binary-tree-from-preorder-and-inorder-traversal.cpp) |
 | [106.Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | `★☆☆`              | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/106.construct-binary-tree-from-inorder-and-postorder-traversal.cpp) |
 | [775.Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | `★☆☆`              | Medium | `Array` `Math` | [c++](./C++/775.global-and-local-inversions.cpp) |
@@ -183,13 +183,12 @@ Stay tuned for updates.
 | [56.Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/56.merge-intervals.cpp) |
 | [57.Insert Interval](https://leetcode.com/problems/insert-interval/description/) | `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/57.insert-interval.cpp) |
 | [825.Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) | `★☆☆`              | Medium | `Array`  | [c++](./C++/825.friends-of-appropriate-ages.cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Array`  | [c++](./C++/..cpp) |
+| [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | `★☆☆`              | Hard | `Array` `Dynamic Processing`  | [c++](./C++/123.best-time-to-buy-and-sell-stock-iii.cpp) |
+| [188.Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | `★☆☆`              | Hard | `Dynamic Processing`  | [c++](./C++/188.best-time-to-buy-and-sell-stock-iv.cpp) |
+| [309.Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/309.best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
