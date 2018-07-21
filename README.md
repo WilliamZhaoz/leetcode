@@ -12,7 +12,7 @@ Stay tuned for updates.
 | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | `★☆☆`| Hard      | `Array` `Binary Search` `Divided and Conquer`                     | [c++](./C++/4.median-of-two-sorted-arrays.cpp)               |
 | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | `6/3/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/11.container-with-most-water.cpp) |
 | [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | `3/26/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/16.3sum-closest.cpp)         |
-| [17.Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |  `6/21/2018` | Medium     | `String` `Backtracking`                   | [c++](./C++/17.letter-combinations-of-a-phone-number.cpp)         |
+| [17.Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | `7/21/2018` | Medium     | `String` `Backtracking`                   | [c++](./C++/17.letter-combinations-of-a-phone-number.cpp)         |
 | [18.4Sum](https://leetcode.com/problems/4sum/description/) | `5/23/2018`          | Medium     | `Array` `Hash Table` `Two Pointers`      | [c++](./C++/18.4sum.cpp)                 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | `7/14/2018`          | Medium     | `Link List` `Two Pointers`      | [c++](./C++/19.remove-nth-node-from-end-of-list.cpp)                 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | `7/15/2018`          |Easy    | `Link List`     | [c++](./C++/21. merge-two-sorted-lists.cpp)                 |
@@ -21,12 +21,12 @@ Stay tuned for updates.
 | [33.Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |`★☆☆`  | Medium    |  `Array` `Binary Search`      | [c++](./C++/33.search-in-rotated-sorted-array.cpp)                |
 | [34.Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | `★☆☆` | Medium    |  `Array` `Binary Search`      | [c++](./C++/34.search-for-a-range.cpp)                 |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | `4/4/2018`  | Easy       | `Array`   `Binary Search`                | [c++](./C++/35.search-insert-position.cpp) |
-| [39.Combination Sum](https://leetcode.com/problems/combination-sum/description/) | `6/21/2018`  | Medium      | `Array`   `Backtracking`                | [c++](./C++/39.combination-sum.cpp) |
+| [39.Combination Sum](https://leetcode.com/problems/combination-sum/description/) | `7/21/2018` | Medium      | `Array`   `Backtracking`                | [c++](./C++/39.combination-sum.cpp) |
 | [40.Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |   `6/26/2018`   | Medium      | `Array`   `Backtracking`                | [c++](./C++/40.combination-sum-ii.cpp) |
 | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | `5/20/2018` | Hard       | `Array`                                  | [c++](./C++/41.first-missing-positive.cpp) |
 | [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `6/3/2018` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
 | [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018`          | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
-| [46. Permutations](https://leetcode.com/problems/permutations/description/) |    `6/26/2018`    | Medium      | `Backtracking`                         | [c++](./C++/46.permutations.cpp)         |
+| [46. Permutations](https://leetcode.com/problems/permutations/description/) |    `7/21/2018`    | Medium      | `Backtracking`                         | [c++](./C++/46.permutations.cpp)         |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) |    `6/26/2018`     | Medium      | `Backtracking`                         | [c++](./C++/47.permutations-ii.cpp)         |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |   `★☆☆`     | Medium      | `Math` `Binary Search`                         | [c++](./C++/50.powx-n.cpp)         |
 | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | `6/26/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
@@ -164,7 +164,7 @@ Stay tuned for updates.
 | [48.Rotate Image](https://leetcode.com/problems/rotate-image/description/) |       `★☆☆`         | Medium | `Array` | [c++](./C++/48.rotate-image.cpp) |
 | [729.My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) |       ✖          | Medium | `Array` | [c++](./C++/729.my-calendar-i.cpp) |
 | [621.Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) |        ✖       | Medium | `Array` `Queue` `Greedy` | [c++](./C++/621.task-scheduler.cpp) |
-| [611.Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) |             | Medium | `Array` `Binary Search` `Tow Pointers` | [c++](./C++/611.valid-triangle-number.cpp) |
+| [611.Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | `★☆☆` | Medium | `Array` `Binary Search` `Tow Pointers` | [c++](./C++/611.valid-triangle-number.cpp) |
 | [64.https://leetcode.com/problems/minimum-path-sum/description/](https://leetcode.com/problems/minimum-path-sum/description/) |     `★☆☆`           | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `★☆☆`        | Medium | `Array` | [c++](./C++/75.sort-colors.cpp) |
 | [80.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |    `★☆☆`           | Medium | `Array` `Two Pointers` | [c++](./C++/80.remove-duplicates-from-sorted-array-ii.cpp) |
@@ -188,6 +188,22 @@ Stay tuned for updates.
 | [309.Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/309.best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing`  | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
