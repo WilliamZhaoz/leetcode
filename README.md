@@ -188,8 +188,8 @@ Stay tuned for updates.
 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | `★☆☆`              | Hard | `Array` `Dynamic Processing`  | [c++](./C++/123.best-time-to-buy-and-sell-stock-iii.cpp) |
 | [188.Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | `★☆☆`              | Hard | `Dynamic Processing`  | [c++](./C++/188.best-time-to-buy-and-sell-stock-iv.cpp) |
 | [309.Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/309.best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing`  | [c++](./C++/..cpp) |
+| [301.Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | `★☆☆`              | Medium | `Depth-first Search` `Breadth-first Search` | [c++](./C++/301.remove-invalid-parentheses.cpp) |
+| [52.N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | `7/23/2018`              | Hard | `Backtracking`  | [c++](./C++/52.n-queens-ii.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
