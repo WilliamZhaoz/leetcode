@@ -35,6 +35,37 @@ public:
         }
     }
     */
+	// another version to avoid duplicate
+	/*
+	class Solution {
+public:
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        vector<vector<int>> res;
+        vector<int> com;
+        sort(candidates.begin(), candidates.end());
+        helper(res, com, candidates, target, 0);
+        return res;
+    }
+    void helper(vector<vector<int>> &res, vector<int> &com, vector<int> &candidates, int target, int start) {
+        if (target <= 0) {
+            if (target == 0) {
+                res.push_back(com);
+            }
+            return; 
+        }
+        for (int i = start; i < candidates.size(); i++) {
+            if (i != start && candidates[i] == candidates[i - 1]) {
+                continue;
+            }
+            com.push_back(candidates[i]);
+            target -= candidates[i];
+            helper(res, com, candidates, target, i + 1);
+            target += candidates[i];
+            com.pop_back();
+        }
+    }
+};
+	*/
     // version 2 non-recursive version
     vector<vector<int> > combinationSum2(vector<int> &num, int target) {
 		// write your code here
