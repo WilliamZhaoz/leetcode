@@ -190,9 +190,9 @@ Stay tuned for updates.
 | [309.Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/309.best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
 | [301.Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | `★☆☆`              | Medium | `Depth-first Search` `Breadth-first Search` | [c++](./C++/301.remove-invalid-parentheses.cpp) |
 | [52.N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | `7/23/2018`              | Hard | `Backtracking`  | [c++](./C++/52.n-queens-ii.cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | `7/30/2018`  | Medium | `Depth-first Search` | [c++](./C++/473.matchsticks-to-square.cpp) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | `7/30/2018`    | Medium | `Hash Table` | [c++](./C++/36.valid-sudoku.cpp) |
+| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | `7/30/2018`     | Hard | `Hash Table` `Backtracking` | [c++](./C++/37.sudoku-solver.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
