@@ -190,7 +190,6 @@ Stay tuned for updates.
 | [309.Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/309.best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
 | [301.Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | `★☆☆`              | Medium | `Depth-first Search` `Breadth-first Search` | [c++](./C++/301.remove-invalid-parentheses.cpp) |
 | [52.N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | `7/23/2018`              | Hard | `Backtracking`  | [c++](./C++/52.n-queens-ii.cpp) |
-<<<<<<< HEAD
 | [101.Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | `8/1/2018`              | Medium | `Tree` `Depth-first Search` `Breadth-first Search` | [c++](./C++/101.symmetric-tree.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
