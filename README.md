@@ -173,8 +173,8 @@ Stay tuned for updates.
 | [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
 | [792.Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |          `★☆☆`    | Medium | `Array` | [c++](./C++/792.number-of-matching-subsequences.cpp) |
 | [120.Triangle](https://leetcode.com/problems/triangle/description/) |         `★☆☆`      | Medium | `Array` `Dynamic Programming` | [c++](./C++/120.triangle.cpp) |
-| [105.Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | `★☆☆`              | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/105.construct-binary-tree-from-preorder-and-inorder-traversal.cpp) |
-| [106.Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | `★☆☆`              | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/106.construct-binary-tree-from-inorder-and-postorder-traversal.cpp) |
+| [105.Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | `8/5/2018`              | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/105.construct-binary-tree-from-preorder-and-inorder-traversal.cpp) |
+| [106.Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | `8/5/2018`              | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/106.construct-binary-tree-from-inorder-and-postorder-traversal.cpp) |
 | [775.Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | `★☆☆`              | Medium | `Array` `Math` | [c++](./C++/775.global-and-local-inversions.cpp) |
 | [713.Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | `★☆☆`              | Medium | `Array` `Two Points` | [c++](./C++/713.subarray-product-less-than-k.cpp) |
 | [560.Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | `★☆☆`              | Medium | `Array` `Hash Table` | [c++](./C++/560.subarray-sum-equals-k.cpp) |
@@ -196,8 +196,8 @@ Stay tuned for updates.
 | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | `7/30/2018`  | Medium | `Depth-first Search` | [c++](./C++/473.matchsticks-to-square.cpp) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | `7/30/2018`    | Medium | `Hash Table` | [c++](./C++/36.valid-sudoku.cpp) |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | `7/30/2018`     | Hard | `Hash Table` `Backtracking` | [c++](./C++/37.sudoku-solver.cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [213.House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | `8/5/2018`              | Medium | `Dynamic Processing` | [c++](./C++/213.house-robber-ii.cpp) |
+| [653.Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | `8/6/2018`              | Easy | `Tree` | [c++](./C++/653.two-sum-iv-input-is-a-bst.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
