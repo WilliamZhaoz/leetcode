@@ -54,7 +54,7 @@ Stay tuned for updates.
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | `3/10/2018` | Easy       | `Tree` `Depth-first Search`              | [c++](./C++/110.balanced-binary-tree.cpp) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | `5/21/2018`           | Easy       | `Tree` `Depth-first Search` `Breadth-first Search` | [c++](./C++/111.minimum-depth-of-binary-tree.cpp) |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/description/) | `3/12/2018` | Easy       | `Tree` `Depth-first Search`              | [c++](./C++/112.path-sum.cpp)  |
-| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |       ✖       | Hard       | `Tree` `Depth-first Search`              |     [c++](./C++/124.binary-tree-maximum-path-sum.cpp)   |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |       `8/8/2018`     | Hard       | `Tree` `Depth-first Search`              |     [c++](./C++/124.binary-tree-maximum-path-sum.cpp)   |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |       `3/21/2018`     | Medium       | `Tree` `Depth-first Search`              |     [c++](./C++/129.sum-root-to-leaf-numbers.cpp)                               |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) |    `6/28/2018`      | Medium       | `Backtracking`              |     [c++](./C++/131.palindrome-partitioning.cpp)                               |
 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/) |   ✖        |Hard     | `Dynamic Programing`              |     [c++](./C++/132.palindrome-partitioning-ii.cpp)                               |
@@ -78,7 +78,7 @@ Stay tuned for updates.
 | [216.Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |  `6/20/2018` | Medium      | `Array`   `Backtracking`                | [c++](./C++/216.combination-sum-iii.cpp) |
 | [222.Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | `★☆☆`  | Medium      | `Binary Search`   `Tree`                | [c++](./C++/222.count-complete-tree-nodes.cpp) |
 | [230.Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | `★☆☆`   | Medium      | `Binary Search`   `Tree`                | [c++](./C++/230.kth-smallest-element-in-a-bst.cpp) |
-| [235.Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | `3/10/2018` | Easy | `Tree` | [c++](./C++/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) |
+| [235.Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | `8/7/2018` | Easy | `Tree` | [c++](./C++/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) |
 | [236.Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | `6/28/2018`           | Medium     | `Tree`                                   | [c++](./C++/236.lowest-common-ancestor-of-a-binary-tree.cpp) |
 | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `6/3/2018` | Medium     | `Array`                                  | [c++](./C++/238.product-of-array-except-self.cpp) |
 | [240.Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | `★☆☆`  | Medium     | `Binary Search` `Divide and Conquer`                                  | [c++](./C++/240.search-a-2d-matrix-ii.cpp) |
@@ -198,8 +198,8 @@ Stay tuned for updates.
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | `7/30/2018`     | Hard | `Hash Table` `Backtracking` | [c++](./C++/37.sudoku-solver.cpp) |
 | [213.House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | `8/5/2018`              | Medium | `Dynamic Processing` | [c++](./C++/213.house-robber-ii.cpp) |
 | [653.Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | `8/6/2018`              | Easy | `Tree` | [c++](./C++/653.two-sum-iv-input-is-a-bst.cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [543.Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | `8/8/2018`              | Easy | `Tree` | [c++](./C++/543.diameter-of-binary-tree.cpp) |
+| [38.Count and Say](https://leetcode.com/problems/count-and-say/description/) | `8/8/2018`              | Easy | `String` | [c++](./C++/38.count-and-say.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
