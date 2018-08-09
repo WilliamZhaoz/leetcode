@@ -200,9 +200,9 @@ Stay tuned for updates.
 | [653.Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | `8/6/2018`              | Easy | `Tree` | [c++](./C++/653.two-sum-iv-input-is-a-bst.cpp) |
 | [543.Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | `8/8/2018`              | Easy | `Tree` | [c++](./C++/543.diameter-of-binary-tree.cpp) |
 | [38.Count and Say](https://leetcode.com/problems/count-and-say/description/) | `8/8/2018`              | Easy | `String` | [c++](./C++/38.count-and-say.cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | `8/8/2018`    | Medium | `String` `Hash Table` | [c++](./C++/49.group-anagrams.cpp) |
+| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | `8/8/2018`   | Medium | `String` | [c++](./C++/151.reverse-words-in-a-string.cpp) |
+| [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | `8/8/2018`     | Medium | `String` | [c++](./C++/165.compare-version-numbers.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
