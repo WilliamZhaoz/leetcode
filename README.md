@@ -203,8 +203,9 @@ Stay tuned for updates.
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | `8/8/2018`    | Medium | `String` `Hash Table` | [c++](./C++/49.group-anagrams.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | `8/8/2018`   | Medium | `String` | [c++](./C++/151.reverse-words-in-a-string.cpp) |
 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | `8/8/2018`     | Medium | `String` | [c++](./C++/165.compare-version-numbers.cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [348.Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) | `★☆☆`              | Medium | `Design` | [c++](./C++/348.design-tic-tac-toe.cpp) |
+| [252.Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | `★☆☆`              | Easy | `Sort` | [c++](./C++/252.meeting-rooms.cpp) |
+| [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | `★☆☆`              | Mediim| `Sort` `Heap` `Greedy` | [c++](./C++/253.meeting-rooms-ii.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
