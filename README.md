@@ -203,15 +203,56 @@ Stay tuned for updates.
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | `8/8/2018`    | Medium | `String` `Hash Table` | [c++](./C++/49.group-anagrams.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | `8/8/2018`   | Medium | `String` | [c++](./C++/151.reverse-words-in-a-string.cpp) |
 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | `8/8/2018`     | Medium | `String` | [c++](./C++/165.compare-version-numbers.cpp) |
-| [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |      | Medium | `Array` | [c++](./C++/277.find-the-celebrity.cpp)                      | [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | `★☆☆`              | Medium | `String` | [c++](./C++/186.reverse-words-in-a-string-ii.cpp) |
+| [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |      | Medium | `Array` | [c++](./C++/277.find-the-celebrity.cpp)   |  
+| [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | `★☆☆`              | Medium | `String` | [c++](./C++/186.reverse-words-in-a-string-ii.cpp) |
 | [348.Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) | `★☆☆`              | Medium | `Design` | [c++](./C++/348.design-tic-tac-toe.cpp) |
 | [252.Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | `★☆☆`              | Easy | `Sort` | [c++](./C++/252.meeting-rooms.cpp) |
 | [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | `★☆☆`              | Mediim| `Sort` `Heap` `Greedy` | [c++](./C++/253.meeting-rooms-ii.cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
+| [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | `8/13/2018`              | Medium | `Design` `Queue` | [c++](./C++/346.moving-average-from-data-stream.cpp) |
+| [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | `8/13/2018`              | Medium | `Tree` | [c++](./C++/285.inorder-successor-in-bst.cpp) |
+| [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) | `8/13/2018`              | Medium | `String` | [c++](./C++/161.one-edit-distance.cpp) |
+| [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | `8/13/2018`              | Easy| `Hash Table` | [c++](./C++/266.palindrome-permutation.cpp) |
+| [681. Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | `★☆☆`              | Medium | `String` | [c++](./C++/681.next-closest-time.cpp) |
+| [683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) | `★☆☆`              | Hard | `Array` `Binary Search Tree` | [c++](./C++/683.k-empty-slots.cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
