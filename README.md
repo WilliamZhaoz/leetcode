@@ -214,11 +214,11 @@ Stay tuned for updates.
 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | `8/13/2018`              | Easy| `Hash Table` | [c++](./C++/266.palindrome-permutation.cpp) |
 | [681. Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | `★☆☆`              | Medium | `String` | [c++](./C++/681.next-closest-time.cpp) |
 | [683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) | `★☆☆`              | Hard | `Array` `Binary Search Tree` | [c++](./C++/683.k-empty-slots.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | `8/14/2018`              | Easy | `Tree` `Binary Search` | [c++](./C++/270.closest-binary-search-tree-value.cpp) |
+| [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | `8/18/2018`              | Hard | `Tree` `Stack` | [c++](./C++/272.closest-binary-search-tree-value-ii.cpp) |
+| [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | `8/15/2018`              | Easy | `Depth-first Search` | [c++](./C++/339.nested-list-weight-sum.cpp) |
+| [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/) | `8/15/2018`              | Hard | `Depth-first Search` | [c++](./C++/364.nested-list-weight-sum-ii.cpp) |
+| [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) | `×`              | Medium | `Depth-first Search` `Breadth-first Search` `Graph` | [c++](./C++/133.clone-graph.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
