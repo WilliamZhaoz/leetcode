@@ -16,7 +16,7 @@ Stay tuned for updates.
 | [18.4Sum](https://leetcode.com/problems/4sum/description/) | `5/23/2018`          | Medium     | `Array` `Hash Table` `Two Pointers`      | [c++](./C++/18.4sum.cpp)                 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | `7/14/2018`          | Medium     | `Link List` `Two Pointers`      | [c++](./C++/19.remove-nth-node-from-end-of-list.cpp)                 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | `7/22/2018`          | Easy     | `String` `Stack`      | [c++](./C++/20.valid-parentheses.cpp)                 |
-| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | `7/15/2018`          |Easy    | `Link List`     | [c++](./C++/21. merge-two-sorted-lists.cpp)                 |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | `7/15/2018`          |Easy    | `Link List`     | [c++](./C++/21.merge-two-sorted-lists.cpp)                 |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |`★☆☆`        |Medium   | `Backtracking` `String`     | [c++](./C++/22.generate-parentheses.cpp)                 |
 |   [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                       |       `7/10/2018`      | Easy | `Array` | [c++](./C++/26.remove-duplicates-from-sorted-array.cpp) |
 | [28.Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | `6/8/2018`          | Easy     |  `Two Pointers` `string`      | [c++](./C++/28.implement-strstr.cpp)                 |
@@ -48,7 +48,7 @@ Stay tuned for updates.
 | [60.Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | `6/19/2018` | Medium     | `Math` `Backtracking`                                 | [c++](./C++/60.permutation-sequence.cpp)     |
 | [61.Rotate List](https://leetcode.com/problems/rotate-list/description/) | `7/15/2018` | Medium     | `Link List` `Two Points`                                 | [c++](./C++/61.rotate-list.cpp)     |
 | [62.Unique Paths](https://leetcode.com/problems/unique-paths/description/) |      `★☆☆`       | Medium | `Array` | [c++](./C++/62.unique-paths.cpp) |
-| [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `★☆☆`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.Unique Paths II.cpp) |
+| [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `★☆☆`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.unique-paths-ii.cpp) |
 | [64.https://leetcode.com/problems/minimum-path-sum/description/](https://leetcode.com/problems/minimum-path-sum/description/) |     `★☆☆`           | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
 | [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★☆☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `★☆☆`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
@@ -172,7 +172,7 @@ Stay tuned for updates.
 |    [532.K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)                                      | `★☆☆` |        Easy    |         `Array`    `Hash Table` `Two Pointers`                             | [c++](./C++/532.k-diff-pairs-in-an-array.cpp) |
 | [543.Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | `8/8/2018`              | Easy | `Tree` | [c++](./C++/543.diameter-of-binary-tree.cpp) |
 | [560.Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | `★☆☆`              | Medium | `Array` `Hash Table` | [c++](./C++/560.subarray-sum-equals-k.cpp) |
-| [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/561.Array Partition I.cpp) |
+| [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/561.array-partition-i.cpp) |
 | [565.Array Nesting](https://leetcode.com/problems/array-nesting/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/565.array-nesting.cpp) |
 | [566. Reshape the Matrix ](https://leetcode.com/problems/reshape-the-matrix/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/.cpp) |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | | Medium      | `Two Pointers`                                   |    [c++](./C++/567.permutation-in-string.cpp)                                      |
