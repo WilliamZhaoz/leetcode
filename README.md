@@ -144,7 +144,7 @@ Stay tuned for updates.
 | [309.Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/309.best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | `8/15/2018`              | Easy | `Depth-first Search` | [c++](./C++/339.nested-list-weight-sum.cpp) |
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | `8/13/2018`              | Medium | `Design` `Queue` | [c++](./C++/346.moving-average-from-data-stream.cpp) |
-| [348.Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) | `★☆☆`              | Medium | `Design` | [c++](./C++/348.design-tic-tac-toe.cpp) |
+| [348.Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) | `8/21/2018`     | Medium | `Design` | [c++](./C++/348.design-tic-tac-toe.cpp) |
 | [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | `★☆☆` | Easy  | `Hash Table` `Two Pointers` `Binary Search`     `Sort`                             | [c++](./C++/349.lintersection-of-two-arrays.cpp) |
 | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | `★☆☆` | Easy   | `Hash Table` `Two Pointers` `Binary Search`     `Sort`                             | [c++](./C++/350.intersection-of-two-arrays-ii.cpp) |
 | [354.Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) | `★★☆` | Hard  |`Binary Search`     `Dynamic Programming`                             | [c++](./C++/354.russian-doll-envelopes.cpp) |
@@ -219,10 +219,10 @@ Stay tuned for updates.
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | `★☆☆` | Easy    |`Binary Search`                   | [c++](./C++/852.peak-index-in-a-mountain-array.cpp)|
 | [868. Transpose Matrix ](https://leetcode.com/problems/transpose-matrix/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/868.transpose-matrix.cpp) |
 | [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [402. Remove K Digits ](https://leetcode.com/problems/remove-k-digits/description/) | `8/20/2018`  | Medium | `Stack` `Greedy` | [c++](./C++/402.remove-k-digits.cpp) |
+| [273.Integer to English Words ](https://leetcode.com/problems/integer-to-english-words/description/) | `8/21/2018`     | Hard | `String` `Math` | [c++](./C++/273.integer-to-english-words.cpp) |
+| [171. Excel Sheet Column Number ](https://leetcode.com/problems/excel-sheet-column-number/description/) | `8/21/2018`    | Easy | `Math` | [c++](./C++/171.excel-sheet-column-number.cpp) |
+| [223. Rectangle Area ](https://leetcode.com/problems/rectangle-area/description/) | `8/21/2018`    | Medium | `Math` | [c++](./C++/223.rectangle-area.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
