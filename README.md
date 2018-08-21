@@ -108,7 +108,7 @@ Stay tuned for updates.
 | [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | `5/22/2018`         | Easy       | `Array` `Two Pointers` `Binary-search Tree` | [c++](./C++/167.two-sum-ii-input-array-is-sorted.cpp) |
 | [169. Majority Element ](https://leetcode.com/problems/majority-element/description/) | `★☆☆` | Easy | `Array` `Devide and Conquer` `Bit manipulation` | [c++](./C++/169.majority-element.cpp) |
 | [174.Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |      `★☆☆`     | Hard      |  `Binary-search Tree` `Dynamic Programming`| [c++](./C++/174.dungeon-game.cpp) |
-| [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | `★☆☆`              | Medium | `String` | [c++](./C++/186.reverse-words-in-a-string-ii.cpp) |
+| [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | `8/22/2018`              | Medium | `String` | [c++](./C++/186.reverse-words-in-a-string-ii.cpp) |
 | [188.Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | `8/4/2018`              | Hard | `Dynamic Processing`  | [c++](./C++/188.best-time-to-buy-and-sell-stock-iv.cpp) |
 |    [189.Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                      |         `★☆☆`      |        Easy    |         `Array`                                 | [c++](./C++/189.rotate-array.cpp) |
 | [198.House Robber](https://leetcode.com/problems/house-robber/description/) | `8/5/2018`              | Easy | `Dynamic Processing` | [c++](./C++/198.house-robber.cpp) |
@@ -218,7 +218,6 @@ Stay tuned for updates.
 |   [849.Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)                                       |         `7/10/2018`    | Easy | `Array` | [c++](./C++/849.maximize-distance-to-closest-person.cpp) |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | `★☆☆` | Easy    |`Binary Search`                   | [c++](./C++/852.peak-index-in-a-mountain-array.cpp)|
 | [868. Transpose Matrix ](https://leetcode.com/problems/transpose-matrix/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/868.transpose-matrix.cpp) |
-| [.]() | `★☆☆`              | Medium | `Dynamic Processing` | [c++](./C++/..cpp) |
 | [402. Remove K Digits ](https://leetcode.com/problems/remove-k-digits/description/) | `8/20/2018`  | Medium | `Stack` `Greedy` | [c++](./C++/402.remove-k-digits.cpp) |
 | [273.Integer to English Words ](https://leetcode.com/problems/integer-to-english-words/description/) | `8/21/2018`     | Hard | `String` `Math` | [c++](./C++/273.integer-to-english-words.cpp) |
 | [171. Excel Sheet Column Number ](https://leetcode.com/problems/excel-sheet-column-number/description/) | `8/21/2018`    | Easy | `Math` | [c++](./C++/171.excel-sheet-column-number.cpp) |
@@ -227,10 +226,8 @@ Stay tuned for updates.
 | [232. Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/description/) | `8/21/2018` | Easy | `Stack` `Design` | [c++](./C++/232.implement-queue-using-stacks.cpp) |
 | [116. Populating Next Right Pointers in Each Node ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | `8/21/2018`     | Medium | `Tree` `Depth-first Search` | [c++](./C++/116.populating-next-right-pointers-in-each-node.cpp) |
 | [191. Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/description/) | `8/21/2018`     | Easy | `Bit Manipulation` | [c++](./C++/191.number-of-1-bits.cpp) |
-| [186. Reverse Words in a String II ](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| [237.Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| [10. Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/description/) | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| [253. Meeting Rooms II ](https://leetcode.com/problems/meeting-rooms-ii/description/) | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [237.Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | `8/22/2018`              | Medium | `Linked List` | [c++](./C++/237.delete-node-in-a-linked-list.cpp) |
+| [10. Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/description/) | `×`              | Hard | `Backtracking` `String` `Dynamic Programming` | [c++](./C++/10.regular-expression-matching.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
