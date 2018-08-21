@@ -224,13 +224,13 @@ Stay tuned for updates.
 | [171. Excel Sheet Column Number ](https://leetcode.com/problems/excel-sheet-column-number/description/) | `8/21/2018`    | Easy | `Math` | [c++](./C++/171.excel-sheet-column-number.cpp) |
 | [223. Rectangle Area ](https://leetcode.com/problems/rectangle-area/description/) | `8/21/2018`    | Medium | `Math` | [c++](./C++/223.rectangle-area.cpp) |
 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | `8/21/2018`   | Medium | `Binary Search` | [c++](./C++/658.find-k-closest-elements.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [232. Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/description/) | `8/21/2018` | Easy | `Stack` `Design` | [c++](./C++/232.implement-queue-using-stacks.cpp) |
+| [116. Populating Next Right Pointers in Each Node ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | `8/21/2018`     | Medium | `Tree` `Depth-first Search` | [c++](./C++/116.populating-next-right-pointers-in-each-node.cpp) |
+| [191. Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/description/) | `8/21/2018`     | Easy | `Bit Manipulation` | [c++](./C++/191.number-of-1-bits.cpp) |
+| [186. Reverse Words in a String II ](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [237.Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [10. Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/description/) | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [253. Meeting Rooms II ](https://leetcode.com/problems/meeting-rooms-ii/description/) | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
