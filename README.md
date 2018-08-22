@@ -21,7 +21,7 @@ Stay tuned for updates.
 |   [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                       |       `7/10/2018`      | Easy | `Array` | [c++](./C++/26.remove-duplicates-from-sorted-array.cpp) |
 | [28.Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | `6/8/2018`          | Easy     |  `Two Pointers` `string`      | [c++](./C++/28.implement-strstr.cpp)                 |
 |[29.Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | `★☆☆`| Medium    |  `Math` `Binary Search`      | [c++](./C++/29.divide-two-integers.cpp) |
-| [33.Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |`★☆☆`  | Medium    |  `Array` `Binary Search`      | [c++](./C++/33.search-in-rotated-sorted-array.cpp)                |
+| [33.Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |`8/23/2018`  | Medium    |  `Array` `Binary Search`      | [c++](./C++/33.search-in-rotated-sorted-array.cpp)                |
 | [31.Next Permutation](https://leetcode.com/problems/next-permutation/description/) | `★☆☆`              | Medium | `Array`  | [c++](./C++/31.next-permutation.cpp) |
 | [34.Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | `★☆☆` | Medium    |  `Array` `Binary Search`      | [c++](./C++/34.search-for-a-range.cpp)                 |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | `4/4/2018`  | Easy       | `Array`   `Binary Search`                | [c++](./C++/35.search-insert-position.cpp) |
@@ -55,7 +55,7 @@ Stay tuned for updates.
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
 | [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
 | [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `★☆☆`    | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
-| [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `★☆☆`        | Medium | `Array` | [c++](./C++/75.sort-colors.cpp) |
+| [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `8/23/2018`        | Medium | `Sort` `Two Points` `Array` | [c++](./C++/75.sort-colors.cpp) |
 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | `6/12/2018` | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
 | [79.Word Search](https://leetcode.com/problems/word-search/description/) | `★☆☆`              | Medium | `Array` `Backtracking` | [c++](./C++/79.word-search.cpp) |
 | [80.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |    `★☆☆`           | Medium | `Array` `Two Pointers` | [c++](./C++/80.remove-duplicates-from-sorted-array-ii.cpp) |
@@ -228,12 +228,12 @@ Stay tuned for updates.
 | [191. Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/description/) | `8/21/2018`     | Easy | `Bit Manipulation` | [c++](./C++/191.number-of-1-bits.cpp) |
 | [237.Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | `8/22/2018`              | Medium | `Linked List` | [c++](./C++/237.delete-node-in-a-linked-list.cpp) |
 | [10. Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/description/) | `×`              | Hard | `Backtracking` `String` `Dynamic Programming` | [c++](./C++/10.regular-expression-matching.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [695.Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | `8/23/2018`              | Easy | `Array` `Depth-first Search` | [c++](./C++/695.max-area-of-island.cpp) |
+| [415.Add Strings](https://leetcode.com/problems/add-strings/description/) | `8/23/2018`              | Easy | `Math` | [c++](./C++/415.add-strings.cpp) |
+| [445]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [43]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [252]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [212]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
