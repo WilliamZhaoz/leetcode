@@ -230,11 +230,11 @@ Stay tuned for updates.
 | [10. Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/description/) | `×`              | Hard | `Backtracking` `String` `Dynamic Programming` | [c++](./C++/10.regular-expression-matching.cpp) |
 | [695.Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | `8/23/2018`              | Easy | `Array` `Depth-first Search` | [c++](./C++/695.max-area-of-island.cpp) |
 | [415.Add Strings](https://leetcode.com/problems/add-strings/description/) | `8/23/2018`              | Easy | `Math` | [c++](./C++/415.add-strings.cpp) |
-| [445]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [445.Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | `8/27/2018`              | Medium | `Linked List`  `Math`| [c++](./C++/445.add-two-numbers-ii.cpp) |
 | [43]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | [252]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | [212]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [2.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | `8/27/2018`              | Medium | `Linked List` `Math` | [c++](./C++/2.add-two-numbers.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
