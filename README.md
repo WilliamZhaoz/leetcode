@@ -236,8 +236,8 @@ Stay tuned for updates.
 | [212]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | [2.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | `8/27/2018`              | Medium | `Linked List` `Math` | [c++](./C++/2.add-two-numbers.cpp) |
 | [525. Contiguous Array ](https://leetcode.com/problems/contiguous-array/description/) | `8/27/2018`    | Medium | `Hash Table` | [c++](./C++/525.contiguous-array.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | `8/28/2018`              | Medium | `Hash Table` `Bit Manipulation` | [c++](./C++/187.repeated-dna-sequences.cpp) |
+| [347.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | `8/28/2018`              | Medium | `Hash Table` `Heap` | [c++](./C++/347.top-k-frequent-elements.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
