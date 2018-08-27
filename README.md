@@ -235,7 +235,7 @@ Stay tuned for updates.
 | [252]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | [212]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | [2.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | `8/27/2018`              | Medium | `Linked List` `Math` | [c++](./C++/2.add-two-numbers.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [525. Contiguous Array ](https://leetcode.com/problems/contiguous-array/description/) | `8/27/2018`    | Medium | `Hash Table` | [c++](./C++/525.contiguous-array.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
