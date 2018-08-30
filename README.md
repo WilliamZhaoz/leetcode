@@ -23,7 +23,7 @@ Stay tuned for updates.
 |[29.Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | `★☆☆`| Medium    |  `Math` `Binary Search`      | [c++](./C++/29.divide-two-integers.cpp) |
 | [33.Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |`8/23/2018`  | Medium    |  `Array` `Binary Search`      | [c++](./C++/33.search-in-rotated-sorted-array.cpp)                |
 | [31.Next Permutation](https://leetcode.com/problems/next-permutation/description/) | `★☆☆`              | Medium | `Array`  | [c++](./C++/31.next-permutation.cpp) |
-| [34.Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | `★☆☆` | Medium    |  `Array` `Binary Search`      | [c++](./C++/34.search-for-a-range.cpp)                 |
+| [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | `8/29/2018` | Medium    |  `Array` `Binary Search`      | [c++](./C++/34.find-first-and-last-position-of-element-in-sorted-array.cpp)                 |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | `4/4/2018`  | Easy       | `Array`   `Binary Search`                | [c++](./C++/35.search-insert-position.cpp) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | `7/30/2018`    | Medium | `Hash Table` | [c++](./C++/36.valid-sudoku.cpp) |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | `7/30/2018`     | Hard | `Hash Table` `Backtracking` | [c++](./C++/37.sudoku-solver.cpp) |
@@ -51,7 +51,7 @@ Stay tuned for updates.
 | [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `★☆☆`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.unique-paths-ii.cpp) |
 | [64.https://leetcode.com/problems/minimum-path-sum/description/](https://leetcode.com/problems/minimum-path-sum/description/) |     `★☆☆`           | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
 | [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★☆☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
-| [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `★☆☆`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
+| [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `8/29/2018`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
 | [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
 | [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `★☆☆`    | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
