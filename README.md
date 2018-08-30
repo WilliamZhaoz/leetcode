@@ -54,7 +54,7 @@ Stay tuned for updates.
 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `8/29/2018`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
 | [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
-| [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `★☆☆`    | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
+| [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `8/30/2018`  | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `8/23/2018`        | Medium | `Sort` `Two Points` `Array` | [c++](./C++/75.sort-colors.cpp) |
 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | `6/12/2018` | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
 | [79.Word Search](https://leetcode.com/problems/word-search/description/) | `★☆☆`              | Medium | `Array` `Backtracking` | [c++](./C++/79.word-search.cpp) |
