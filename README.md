@@ -54,7 +54,7 @@ Stay tuned for updates.
 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `8/29/2018`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
 | [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
-| [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `★☆☆`    | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
+| [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `8/30/2018`  | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `8/23/2018`        | Medium | `Sort` `Two Points` `Array` | [c++](./C++/75.sort-colors.cpp) |
 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | `6/12/2018` | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
 | [79.Word Search](https://leetcode.com/problems/word-search/description/) | `★☆☆`              | Medium | `Array` `Backtracking` | [c++](./C++/79.word-search.cpp) |
@@ -145,7 +145,7 @@ Stay tuned for updates.
 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | `8/15/2018`              | Easy | `Depth-first Search` | [c++](./C++/339.nested-list-weight-sum.cpp) |
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | `8/13/2018`              | Medium | `Design` `Queue` | [c++](./C++/346.moving-average-from-data-stream.cpp) |
 | [348.Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) | `8/21/2018`     | Medium | `Design` | [c++](./C++/348.design-tic-tac-toe.cpp) |
-| [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | `★☆☆` | Easy  | `Hash Table` `Two Pointers` `Binary Search`     `Sort`                             | [c++](./C++/349.lintersection-of-two-arrays.cpp) |
+| [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | `8/28/2018` | Easy  | `Hash Table` `Two Pointers` `Binary Search`     `Sort`                             | [c++](./C++/349.lintersection-of-two-arrays.cpp) |
 | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | `★☆☆` | Easy   | `Hash Table` `Two Pointers` `Binary Search`     `Sort`                             | [c++](./C++/350.intersection-of-two-arrays-ii.cpp) |
 | [354.Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) | `8/30/2018` | Hard  |`Binary Search`     `Dynamic Programming`                             | [c++](./C++/354.russian-doll-envelopes.cpp) |
 | [363.Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) |  | Hard  |`Binary Search`     `Dynamic Programming`  `Queue`                            | [c++](./C++/363.max-sum-of-rectangle-no-larger-than-k.cpp) |
