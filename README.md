@@ -47,8 +47,8 @@ Stay tuned for updates.
 | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | `6/2/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
 | [60.Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | `6/19/2018` | Medium     | `Math` `Backtracking`                                 | [c++](./C++/60.permutation-sequence.cpp)     |
 | [61.Rotate List](https://leetcode.com/problems/rotate-list/description/) | `7/15/2018` | Medium     | `Link List` `Two Points`                                 | [c++](./C++/61.rotate-list.cpp)     |
-| [62.Unique Paths](https://leetcode.com/problems/unique-paths/description/) |      `★☆☆`       | Medium | `Array` | [c++](./C++/62.unique-paths.cpp) |
-| [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `★☆☆`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.unique-paths-ii.cpp) |
+| [62.Unique Paths](https://leetcode.com/problems/unique-paths/description/) |      `8/30/2018`       | Medium | `Array` `Dynamic Programming` | [c++](./C++/62.unique-paths.cpp) |
+| [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `8/30/2018`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.unique-paths-ii.cpp) |
 | [64.https://leetcode.com/problems/minimum-path-sum/description/](https://leetcode.com/problems/minimum-path-sum/description/) |     `★☆☆`           | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
 | [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★☆☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `8/29/2018`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
@@ -147,7 +147,7 @@ Stay tuned for updates.
 | [348.Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) | `8/21/2018`     | Medium | `Design` | [c++](./C++/348.design-tic-tac-toe.cpp) |
 | [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | `★☆☆` | Easy  | `Hash Table` `Two Pointers` `Binary Search`     `Sort`                             | [c++](./C++/349.lintersection-of-two-arrays.cpp) |
 | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | `★☆☆` | Easy   | `Hash Table` `Two Pointers` `Binary Search`     `Sort`                             | [c++](./C++/350.intersection-of-two-arrays-ii.cpp) |
-| [354.Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) | `★★☆` | Hard  |`Binary Search`     `Dynamic Programming`                             | [c++](./C++/354.russian-doll-envelopes.cpp) |
+| [354.Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) | `8/30/2018` | Hard  |`Binary Search`     `Dynamic Programming`                             | [c++](./C++/354.russian-doll-envelopes.cpp) |
 | [363.Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) |  | Hard  |`Binary Search`     `Dynamic Programming`  `Queue`                            | [c++](./C++/363.max-sum-of-rectangle-no-larger-than-k.cpp) |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/) | `8/15/2018`              | Hard | `Depth-first Search` | [c++](./C++/364.nested-list-weight-sum-ii.cpp) |
 | [367.Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | `★☆☆` | Easy | `Math` `Binary Search`                              | [c++](./C++/367.valid-perfect-square.cpp) |
