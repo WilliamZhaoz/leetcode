@@ -31,12 +31,12 @@ Stay tuned for updates.
 | [39.Combination Sum](https://leetcode.com/problems/combination-sum/description/) | `7/21/2018` | Medium      | `Array`   `Backtracking`                | [c++](./C++/39.combination-sum.cpp) |
 | [40.Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |   `6/26/2018`   | Medium      | `Array`   `Backtracking`                | [c++](./C++/40.combination-sum-ii.cpp) |
 | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | `5/20/2018` `★☆☆` | Hard       | `Array`                                  | [c++](./C++/41.first-missing-positive.cpp) |
-| [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `6/3/2018` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
-| [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018`          | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
+| [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `6/3/2018` `★☆☆` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
+| [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018` `★☆☆`    | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
 | [46. Permutations](https://leetcode.com/problems/permutations/description/) |    `7/21/2018`    | Medium      | `Backtracking`                         | [c++](./C++/46.permutations.cpp)         |
-| [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) |    `6/26/2018`     | Medium      | `Backtracking`                         | [c++](./C++/47.permutations-ii.cpp)         |
+| [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) |    `6/26/2018` `★☆☆`    | Medium      | `Backtracking`                         | [c++](./C++/47.permutations-ii.cpp)         |
 | [48.Rotate Image](https://leetcode.com/problems/rotate-image/description/) |       `★☆☆`         | Medium | `Array` | [c++](./C++/48.rotate-image.cpp) |
-| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | `8/8/2018`    | Medium | `String` `Hash Table` | [c++](./C++/49.group-anagrams.cpp) |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | `8/8/2018` `★☆☆` | Medium | `String` `Hash Table` | [c++](./C++/49.group-anagrams.cpp) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |   `★☆☆`     | Medium      | `Math` `Binary Search`                         | [c++](./C++/50.powx-n.cpp)         |
 | [52.N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | `7/23/2018`              | Hard | `Backtracking`  | [c++](./C++/52.n-queens-ii.cpp) |
 | [53. Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/) | `8/2/2018` | Easy | `Array` `Devide and Conquer` `Dynamic Programming` | [c++](./C++/53.maximum-subarray.cpp) |
