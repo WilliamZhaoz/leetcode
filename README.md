@@ -30,7 +30,7 @@ Stay tuned for updates.
 | [38.Count and Say](https://leetcode.com/problems/count-and-say/description/) | `8/8/2018`              | Easy | `String` | [c++](./C++/38.count-and-say.cpp) |
 | [39.Combination Sum](https://leetcode.com/problems/combination-sum/description/) | `7/21/2018` | Medium      | `Array`   `Backtracking`                | [c++](./C++/39.combination-sum.cpp) |
 | [40.Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |   `6/26/2018`   | Medium      | `Array`   `Backtracking`                | [c++](./C++/40.combination-sum-ii.cpp) |
-| [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | `5/20/2018` | Hard       | `Array`                                  | [c++](./C++/41.first-missing-positive.cpp) |
+| [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | `5/20/2018` `★☆☆` | Hard       | `Array`                                  | [c++](./C++/41.first-missing-positive.cpp) |
 | [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | `6/3/2018` | Hard       | `Array` `Two Pointers`   `stack`         | [c++](./C++/42.trapping-rain-water.cpp) |
 | [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018`          | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
 | [46. Permutations](https://leetcode.com/problems/permutations/description/) |    `7/21/2018`    | Medium      | `Backtracking`                         | [c++](./C++/46.permutations.cpp)         |
