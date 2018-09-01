@@ -27,6 +27,7 @@ public:
             helper(res, nums, p, visited);
             p.pop_back();
             visited[i] = false;
+			// while (i + 1 < nums.size() && nums[i] == nums[i + 1]) ++i;
         }
     }
 };

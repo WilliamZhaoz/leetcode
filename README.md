@@ -38,19 +38,19 @@ Stay tuned for updates.
 | [48.Rotate Image](https://leetcode.com/problems/rotate-image/description/) |       `★☆☆`         | Medium | `Array` | [c++](./C++/48.rotate-image.cpp) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | `8/8/2018` `★☆☆` | Medium | `String` `Hash Table` | [c++](./C++/49.group-anagrams.cpp) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |   `★☆☆`     | Medium      | `Math` `Binary Search`                         | [c++](./C++/50.powx-n.cpp)         |
-| [52.N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | `7/23/2018`              | Hard | `Backtracking`  | [c++](./C++/52.n-queens-ii.cpp) |
+| [52.N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | `7/23/2018` `★☆☆`        | Hard | `Backtracking`  | [c++](./C++/52.n-queens-ii.cpp) |
 | [53. Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/) | `8/2/2018` | Easy | `Array` `Devide and Conquer` `Dynamic Programming` | [c++](./C++/53.maximum-subarray.cpp) |
 | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | `6/26/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
 | [55.Jump Game](https://leetcode.com/problems/jump-game/description/) | `5/2/2018`  | Medium     | `Array` `Greedy`                         | [c++](./C++/55.jump-game.cpp)            |
 | [56.Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/56.merge-intervals.cpp) |
 | [57.Insert Interval](https://leetcode.com/problems/insert-interval/description/) | `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/57.insert-interval.cpp) |
-| [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | `6/2/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
-| [60.Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | `6/19/2018` | Medium     | `Math` `Backtracking`                                 | [c++](./C++/60.permutation-sequence.cpp)     |
+| [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | `6/2/2018` `★☆☆` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
+| [60.Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | `6/19/2018` `★☆☆` | Medium     | `Math` `Backtracking`                                 | [c++](./C++/60.permutation-sequence.cpp)     |
 | [61.Rotate List](https://leetcode.com/problems/rotate-list/description/) | `7/15/2018` | Medium     | `Link List` `Two Points`                                 | [c++](./C++/61.rotate-list.cpp)     |
 | [62.Unique Paths](https://leetcode.com/problems/unique-paths/description/) |      `8/30/2018`       | Medium | `Array` `Dynamic Programming` | [c++](./C++/62.unique-paths.cpp) |
 | [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `8/30/2018`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.unique-paths-ii.cpp) |
-| [64.https://leetcode.com/problems/minimum-path-sum/description/](https://leetcode.com/problems/minimum-path-sum/description/) |     `★☆☆`           | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
-| [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★☆☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
+| [64. Minimum Path Sum ](https://leetcode.com/problems/minimum-path-sum/description/) |     `★★☆`          | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
+| [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★★☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `8/29/2018`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
 | [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
@@ -63,7 +63,7 @@ Stay tuned for updates.
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |  `7/14/2018` |Easy    | `Link List` | [c++](./C++/83.remove-duplicates-from-sorted-list.cpp)              |
 |    [88.Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                      |         `★☆☆`       |        Easy    |         `Array`                                 `Two Pointers`| [c++](./C++/88.merge-sorted-array.cpp) |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) | `7/14/2018` | Medium     | `Array` `Backtracking`                   | [c++](./C++/90.subsets-ii.cpp)        |
-| [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |     `7/14/2018`     | Medium      | `Linked List`                          | [c++](./C++/92.reverse-linked-list-ii.cpp) |
+| [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |     `7/14/2018` `★☆☆`     | Medium      | `Linked List`                          | [c++](./C++/92.reverse-linked-list-ii.cpp) |
 | [93.Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | `6/28/2018` | Medium      | `String` `Backtracking`                          | [c++](./C++/93.restore-ip-addresses.cpp) |
 | [94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | `5/17/1018`  | Medium     | `Hash Table` `Stack` `Tree`              | [c++](./C++/94.binary-tree-inorder-traversal.cpp) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | `3/13/2018` | Medium     | `Tree` `Depth-first Search`              | [c++](./C++/98.validate-binary-search-tree.cpp) |
