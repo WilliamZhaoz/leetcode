@@ -9,7 +9,7 @@ Stay tuned for updates.
 |  Title                                  | Bug free    | Difficulty | Tags                                     | Solution & Analysis & Note               |
 | ---------------------------------------- | ----------- | ---------- | ---------------------------------------- | ---------------------------------------- |
 | [1.Two Sum](https://leetcode.com/problems/two-sum/description/) | `3/24/2018` | Easy       | `Array` `Hash Table`                     | [c++](./C++/1.two-sum.cpp)               |
-| [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | `★☆☆`| Hard      | `Array` `Binary Search` `Divided and Conquer`                     | [c++](./C++/4.median-of-two-sorted-arrays.cpp)               |
+| [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | `9/7/2018` `★☆☆`| Hard      | `Array` `Binary Search` `Divided and Conquer`                     | [c++](./C++/4.median-of-two-sorted-arrays.cpp)               |
 | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | `6/3/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/11.container-with-most-water.cpp) |
 | [16.3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | `3/26/2018` | Medium     | `Array` `Two Pointers`                   | [c++](./C++/16.3sum-closest.cpp)         |
 | [17.Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | `7/21/2018` | Medium     | `String` `Backtracking`                   | [c++](./C++/17.letter-combinations-of-a-phone-number.cpp)         |
@@ -17,7 +17,7 @@ Stay tuned for updates.
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | `7/14/2018`          | Medium     | `Link List` `Two Pointers`      | [c++](./C++/19.remove-nth-node-from-end-of-list.cpp)                 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | `7/22/2018`          | Easy     | `String` `Stack`      | [c++](./C++/20.valid-parentheses.cpp)                 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | `7/15/2018`          |Easy    | `Link List`     | [c++](./C++/21.merge-two-sorted-lists.cpp)                 |
-| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |`★☆☆`        |Medium   | `Backtracking` `String`     | [c++](./C++/22.generate-parentheses.cpp)                 |
+| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |`9/7/2018` `★★☆`        |Medium   | `Backtracking` `String`     | [c++](./C++/22.generate-parentheses.cpp)                 |
 |   [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                       |       `7/10/2018`      | Easy | `Array` | [c++](./C++/26.remove-duplicates-from-sorted-array.cpp) |
 | [28.Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | `6/8/2018`          | Easy     |  `Two Pointers` `string`      | [c++](./C++/28.implement-strstr.cpp)                 |
 |[29.Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | `★☆☆`| Medium    |  `Math` `Binary Search`      | [c++](./C++/29.divide-two-integers.cpp) |
