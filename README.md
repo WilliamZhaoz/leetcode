@@ -239,8 +239,8 @@ Stay tuned for updates.
 | [525. Contiguous Array ](https://leetcode.com/problems/contiguous-array/description/) | `8/27/2018`    | Medium | `Hash Table` | [c++](./C++/525.contiguous-array.cpp) |
 | [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | `8/28/2018`              | Medium | `Hash Table` `Bit Manipulation` | [c++](./C++/187.repeated-dna-sequences.cpp) |
 | [347.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | `8/28/2018`              | Medium | `Hash Table` `Heap` | [c++](./C++/347.top-k-frequent-elements.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [200.Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | `9/17/2018` `★☆☆` | Medium | `Depth-first Search` `Breadth-first Search` `Union Find` | [c++](./C++/200.number-of-islands.cpp) |
+| [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/description/) | `9/17/2018` `★☆☆` | Hard | `Union Find` | [c++](./C++/305.number-of-islands-ii.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
