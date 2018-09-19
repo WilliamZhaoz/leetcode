@@ -130,7 +130,7 @@ Stay tuned for updates.
 | [252.Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | `9/14/2018` `★☆☆` | Easy | `Sort` | [c++](./C++/252.meeting-rooms.cpp) |
 | [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | `9/19/2018` `★☆☆` | Medium | `Sort` `Heap` `Greedy` | [c++](./C++/253.meeting-rooms-ii.cpp) |
 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | `8/13/2018`              | Easy| `Hash Table` | [c++](./C++/266.palindrome-permutation.cpp) |
-| [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
+| [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `9/19/2018` `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | `8/14/2018`              | Easy | `Tree` `Binary Search` | [c++](./C++/270.closest-binary-search-tree-value.cpp) |
 | [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | `8/18/2018`              | Hard | `Tree` `Stack` | [c++](./C++/272.closest-binary-search-tree-value-ii.cpp) |
 | [274.H-Index](https://leetcode.com/problems/h-index/description/) |  `★☆☆` | Medium     | `Hash Table` `Sort`                                  | [c++](./C++/274.h-index.cpp) |
