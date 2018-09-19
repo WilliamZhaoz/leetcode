@@ -128,7 +128,7 @@ Stay tuned for updates.
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `7/12/2018` |  Medium    |         `Array`                                 | [c++](./C++/238.product-of-array-except-self.cpp) |
 | [240.Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | `9/13/2018` `★☆☆` | Medium     | `Binary Search` `Divide and Conquer`                                  | [c++](./C++/240.search-a-2d-matrix-ii.cpp) |
 | [252.Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | `9/14/2018` `★☆☆` | Easy | `Sort` | [c++](./C++/252.meeting-rooms.cpp) |
-| [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | `★☆☆`              | Medium | `Sort` `Heap` `Greedy` | [c++](./C++/253.meeting-rooms-ii.cpp) |
+| [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | `9/19/2018` `★☆☆` | Medium | `Sort` `Heap` `Greedy` | [c++](./C++/253.meeting-rooms-ii.cpp) |
 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | `8/13/2018`              | Easy| `Hash Table` | [c++](./C++/266.palindrome-permutation.cpp) |
 | [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | `8/14/2018`              | Easy | `Tree` `Binary Search` | [c++](./C++/270.closest-binary-search-tree-value.cpp) |
