@@ -131,10 +131,10 @@ Stay tuned for updates.
 | [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | `9/19/2018` `★☆☆` | Medium | `Sort` `Heap` `Greedy` | [c++](./C++/253.meeting-rooms-ii.cpp) |
 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | `8/13/2018`              | Easy| `Hash Table` | [c++](./C++/266.palindrome-permutation.cpp) |
 | [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `9/19/2018` `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
-| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | `8/14/2018`              | Easy | `Tree` `Binary Search` | [c++](./C++/270.closest-binary-search-tree-value.cpp) |
-| [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | `8/18/2018`              | Hard | `Tree` `Stack` | [c++](./C++/272.closest-binary-search-tree-value-ii.cpp) |
-| [274.H-Index](https://leetcode.com/problems/h-index/description/) |  `★☆☆` | Medium     | `Hash Table` `Sort`                                  | [c++](./C++/274.h-index.cpp) |
-| [275.H-Index II](https://leetcode.com/problems/h-index-ii/description/) | `★☆☆`  | Medium     | `Binary Search`                                  | [c++](./C++/275.h-index-ii.cpp) |
+| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | `9/20/2018`              | Easy | `Tree` `Binary Search` | [c++](./C++/270.closest-binary-search-tree-value.cpp) |
+| [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | `9/20/2018`              | Hard | `Tree` `Stack` | [c++](./C++/272.closest-binary-search-tree-value-ii.cpp) |
+| [274.H-Index](https://leetcode.com/problems/h-index/description/) |  `9/20/2018` | Medium     | `Hash Table` `Sort`                                  | [c++](./C++/274.h-index.cpp) |
+| [275.H-Index II](https://leetcode.com/problems/h-index-ii/description/) | `9/21/2018` `★☆☆`  | Medium     | `Binary Search`                                  | [c++](./C++/275.h-index-ii.cpp) |
 | [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |      | Medium | `Array` | [c++](./C++/277.find-the-celebrity.cpp)   |
 | [278.First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |`★☆☆`   | Easy    | `Binary Search`                                  | [c++](./C++/278.first-bad-version.cpp) |
 | [283. Move Zeroes ](https://leetcode.com/problems/move-zeroes/description/) | `7/8/2018` | Easy | `Array` `Two Pointers` | [c++](./C++/283.move-zeroes.cpp) |
