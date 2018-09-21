@@ -135,9 +135,9 @@ Stay tuned for updates.
 | [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | `8/18/2018`              | Hard | `Tree` `Stack` | [c++](./C++/272.closest-binary-search-tree-value-ii.cpp) |
 | [274.H-Index](https://leetcode.com/problems/h-index/description/) |  `★☆☆` | Medium     | `Hash Table` `Sort`                                  | [c++](./C++/274.h-index.cpp) |
 | [275.H-Index II](https://leetcode.com/problems/h-index-ii/description/) | `★☆☆`  | Medium     | `Binary Search`                                  | [c++](./C++/275.h-index-ii.cpp) |
-| [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) |      | Medium | `Array` | [c++](./C++/277.find-the-celebrity.cpp)   |
-| [278.First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |`★☆☆`   | Easy    | `Binary Search`                                  | [c++](./C++/278.first-bad-version.cpp) |
-| [283. Move Zeroes ](https://leetcode.com/problems/move-zeroes/description/) | `7/8/2018` | Easy | `Array` `Two Pointers` | [c++](./C++/283.move-zeroes.cpp) |
+| [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) | `9/21/2018` | Medium | `Array` | [c++](./C++/277.find-the-celebrity.cpp)   |
+| [278.First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |`9/21/2018`   | Easy    | `Binary Search`                                  | [c++](./C++/278.first-bad-version.cpp) |
+| [283. Move Zeroes ](https://leetcode.com/problems/move-zeroes/description/) | `9/21/2018` | Easy | `Array` `Two Pointers` | [c++](./C++/283.move-zeroes.cpp) |
 | [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | `8/13/2018`              | Medium | `Tree` | [c++](./C++/285.inorder-successor-in-bst.cpp) |
 | [287.Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | `★☆☆`  | Medium    | `Array` `Two Pointers` `Binary Search`                                  | [c++](./C++/287.find-the-duplicate-number.cpp) |
 | [300.Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | `8/2/2018` | Medium   | `Binary Search`     `Dynamic Programming`                             | [c++](./C++/300.longest-increasing-subsequence.cpp) |
