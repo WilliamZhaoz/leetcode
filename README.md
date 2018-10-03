@@ -1,3 +1,5 @@
+
+
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
 
 Up to date (2018-7-8), there are `833` Algorithms questions on [LeetCode Online Judge](https://leetcode.com/).  
@@ -155,28 +157,28 @@ Stay tuned for updates.
 | [374.Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | `10/2/2018` | Easy  | `Binary Search`                              | [c++](./C++/374.guess-number-higher-or-lower.cpp) |
 | [377.Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | `10/2/2018` `★☆☆` | Medium      | `Dynamic Programming`                | [c++](./C++/377.combination-sum-iv.cpp) |
 | [378.Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | `10/2/2018` `★☆☆` | Medium      | `Binary Search`      `Heap`           | [c++](./C++/378.kth-smallest-element-in-a-sorted-matrix.cpp) |
-| [392.Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | `★☆☆` | Medium      | `Binary Search`  `Dynamic Programming`    `Greedy`           | [c++](./C++/392.is-subsequence.cpp) |
+| [392.Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | `10/2/2018` `★☆☆` | Medium      | `Binary Search`  `Dynamic Programming`    `Greedy`           | [c++](./C++/392.is-subsequence.cpp) |
 | [407.Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) |      ✖        | Hard       | `Array` `Breadth-first Search`           | [c++](./C++/407.trapping-rain-water-ii.cpp) |
-| [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | `★☆☆` | Hard       | `Binary Search` `Dynamic Programming`           | [c++](./C++/410.split-array-largest-sum.cpp) |
+| [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | `10/3/2018` `★☆☆` | Hard       | `Binary Search` `Dynamic Programming`           | [c++](./C++/410.split-array-largest-sum.cpp) |
 |    [414.Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)                                      |    `10/2/2018` `★★★`    |        Easy    |         `Array`                                 | [c++](./C++/414.third-maximum-number.cpp) |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | `10/2/2018` `★☆☆` | Easy      | `Math` `Binary Search`           | [c++](./C++/411.arranging-coins.cpp) |
 | [436. Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) | `ignore` | Medium       | `Binary Search`  | [c++](./C++/436.find-right-interval.cpp) |
 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)  | `10/3/2018` |  Medium    |         `Array`                                 | [c++](./C++/442.find-all-duplicates-in-an-array.cpp) |
 | [448. Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | `10/3/2018` | Easy | `Array` | [c++](./C++/448.find-all-numbers-disappeared-in-an-array.cpp) |
-| [454.4Sum II](https://leetcode.com/problems/4sum-ii/description/) |       `6/28/2018`      | Medium     | `Hash Table` `Binary Search`             | [c++](./C++/454.4sum-ii.cpp)             |
-| [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | `7/30/2018`  | Medium | `Depth-first Search` | [c++](./C++/473.matchsticks-to-square.cpp) |
-| [475.Heaters](https://leetcode.com/problems/heaters/description/) | `★☆☆` | Easy    |  `Binary Search`             | [c++](./C++/475.heaters.cpp)             |
+| [454.4Sum II](https://leetcode.com/problems/4sum-ii/description/) |      `10/3/2018`      | Medium     | `Hash Table` `Binary Search`             | [c++](./C++/454.4sum-ii.cpp)             |
+| [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | `10/3/2018` `★☆☆` | Medium | `Depth-first Search` | [c++](./C++/473.matchsticks-to-square.cpp) |
+| [475.Heaters](https://leetcode.com/problems/heaters/description/) | `10/3/2018` `★☆☆` | Easy    |  `Binary Search`             | [c++](./C++/475.heaters.cpp)             |
 | [483.Smallest Good Base](https://leetcode.com/problems/smallest-good-base/description/) |         | hard   |  `Binary Search`             | [c++](./C++/483.smallest-good-base.cpp)             |
-| [485. Max Consecutive Ones ](https://leetcode.com/problems/max-consecutive-ones/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/485.max-consecutive-ones.cpp) |
-| [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | `7/12/2018` |  Medium    |         `Array`                                 | [c++](./C++/495.teemo-attacking.cpp) |
-| [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) |   `3/22/2018`          | Easy       | `Tree`                                   |    [c++](./C++/501.find-mode-in-binary-search-tree.cpp)                                      |
-|    [532.K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)                                      | `★☆☆` |        Easy    |         `Array`    `Hash Table` `Two Pointers`                             | [c++](./C++/532.k-diff-pairs-in-an-array.cpp) |
+| [485. Max Consecutive Ones ](https://leetcode.com/problems/max-consecutive-ones/description/) | `10/3/2018` | Easy | `Array` | [c++](./C++/485.max-consecutive-ones.cpp) |
+| [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | `10/3/2018` |  Medium    |         `Array`                                 | [c++](./C++/495.teemo-attacking.cpp) |
+| [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) |   `10/3/2018`       | Easy       | `Tree`                                   |    [c++](./C++/501.find-mode-in-binary-search-tree.cpp)                                      |
+|    [532.K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)                                      | `10/3/2018` `★☆☆` |        Easy    |         `Array`    `Hash Table` `Two Pointers`                             | [c++](./C++/532.k-diff-pairs-in-an-array.cpp) |
 | [543.Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | `8/8/2018`              | Easy | `Tree` | [c++](./C++/543.diameter-of-binary-tree.cpp) |
-| [560.Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | `★☆☆`              | Medium | `Array` `Hash Table` | [c++](./C++/560.subarray-sum-equals-k.cpp) |
+| [560.Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | `10/3/2018` `★☆☆` | Medium | `Array` `Hash Table` | [c++](./C++/560.subarray-sum-equals-k.cpp) |
 | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/561.array-partition-i.cpp) |
-| [565.Array Nesting](https://leetcode.com/problems/array-nesting/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/565.array-nesting.cpp) |
+| [565.Array Nesting](https://leetcode.com/problems/array-nesting/description/) | `10/3/2018` `★☆☆` | Medium | `Array` | [c++](./C++/565.array-nesting.cpp) |
 | [566. Reshape the Matrix ](https://leetcode.com/problems/reshape-the-matrix/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/.cpp) |
-| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | | Medium      | `Two Pointers`                                   |    [c++](./C++/567.permutation-in-string.cpp)                                      |
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | `10/4/2018`  `★☆☆` | Medium      | `Two Pointers`                                   |    [c++](./C++/567.permutation-in-string.cpp)                                      |
 | [581.Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | ✖ |        Easy    |         `Array`                                 | [c++](./C++/581.shortest-unsorted-continuous-subarray.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | `★☆☆` |        Easy    |         `Array`                                 | [c++](./C++/605.can-place-flowers.cpp) |
 | [611.Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | `★☆☆` | Medium | `Array` `Binary Search` `Tow Pointers` | [c++](./C++/611.valid-triangle-number.cpp) |
