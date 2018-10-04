@@ -184,9 +184,9 @@ Stay tuned for updates.
 | [611.Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | 10/4/2018 `★☆☆` | Medium | `Array` `Binary Search` `Tow Pointers` | [c++](./C++/611.valid-triangle-number.cpp) |
 | [621.Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | 10/4/2018 `★☆☆`       | Medium | `Array` `Queue` `Greedy` | [c++](./C++/621.task-scheduler.cpp) |
 | [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | `10/4/2018` `★☆☆` | Easy | `Array` | [c++](./C++/628.maximum-product-of-three-numbers.cpp) |
-|          [643.Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                |       `★☆☆`       | Easy | `Array` | [c++](./C++/643.maximum-average-subarray-i.cpp) |
+|  [643.Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                |       `10/4/2018`       | Easy | `Array` | [c++](./C++/643.maximum-average-subarray-i.cpp) |
 | [653.Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | `8/6/2018`              | Easy | `Tree` | [c++](./C++/653.two-sum-iv-input-is-a-bst.cpp) |
-| [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/661.image-smoother.cpp) |
+| [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/) | `10/3/2018` | Easy | `Array` | [c++](./C++/661.image-smoother.cpp) |
 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | | Medium      | `Binary Search`                                   |    [c++](./C++/658.find-k-closest-elements.cpp)                                      |
 |    [665.Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)                                      |          ✖       |        Easy    |         `Array`                                 | [c++](./C++/665.non-decreasing-array.cpp) |
 | [667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/667.beautiful-arrangement-ii.cpp) |
