@@ -44,3 +44,34 @@ private:
         return max(resl, resr); // all values are half
     }
 };
+
+// version 10/4/2018
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    int longestUnivaluePath(TreeNode* root) {
+        if (!root) {
+            return 0;
+        }
+        return max(helper(root->left, root->val) + helper(root->right, root->val), max(longestUnivaluePath(root->left), longestUnivaluePath(root->right)));
+    }
+    int helper(TreeNode* root, int &val) {
+        if (!root) {
+            return 0;
+        }
+        if (root->val == val) {
+            return max(helper(root->left, val), helper(root->right, val)) + 1;
+        }
+        return 0;
+        
+    }
+};
