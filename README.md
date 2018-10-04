@@ -179,11 +179,11 @@ Stay tuned for updates.
 | [565.Array Nesting](https://leetcode.com/problems/array-nesting/description/) | `10/3/2018` `★☆☆` | Medium | `Array` | [c++](./C++/565.array-nesting.cpp) |
 | [566. Reshape the Matrix ](https://leetcode.com/problems/reshape-the-matrix/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/.cpp) |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | `10/4/2018`  `★☆☆` | Medium      | `Two Pointers`                                   |    [c++](./C++/567.permutation-in-string.cpp)                                      |
-| [581.Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | ✖ |        Easy    |         `Array`                                 | [c++](./C++/581.shortest-unsorted-continuous-subarray.cpp) |
-| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | `★☆☆` |        Easy    |         `Array`                                 | [c++](./C++/605.can-place-flowers.cpp) |
-| [611.Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | `★☆☆` | Medium | `Array` `Binary Search` `Tow Pointers` | [c++](./C++/611.valid-triangle-number.cpp) |
-| [621.Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) |        ✖       | Medium | `Array` `Queue` `Greedy` | [c++](./C++/621.task-scheduler.cpp) |
-| [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/628.maximum-product-of-three-numbers.cpp) |
+| [581.Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | `10/4/2018`  `★☆☆` |        Easy    |         `Array`                                 | [c++](./C++/581.shortest-unsorted-continuous-subarray.cpp) |
+| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | `10/4/2018` |        Easy    |         `Array`                                 | [c++](./C++/605.can-place-flowers.cpp) |
+| [611.Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | 10/4/2018 `★☆☆` | Medium | `Array` `Binary Search` `Tow Pointers` | [c++](./C++/611.valid-triangle-number.cpp) |
+| [621.Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | 10/4/2018 `★☆☆`       | Medium | `Array` `Queue` `Greedy` | [c++](./C++/621.task-scheduler.cpp) |
+| [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | `10/4/2018` `★☆☆` | Easy | `Array` | [c++](./C++/628.maximum-product-of-three-numbers.cpp) |
 |          [643.Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                |       `★☆☆`       | Easy | `Array` | [c++](./C++/643.maximum-average-subarray-i.cpp) |
 | [653.Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | `8/6/2018`              | Easy | `Tree` | [c++](./C++/653.two-sum-iv-input-is-a-bst.cpp) |
 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/661.image-smoother.cpp) |
