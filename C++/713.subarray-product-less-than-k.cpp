@@ -9,6 +9,7 @@ public:
             product *= nums[i];
             /*
             // some big data case can not ac, do not know why
+			// I found the problem, in this version, product need to be double type, because product /= nums[] will lose the accuracy in int. 
             if (product < k) {
                 res += i - left + 1;
             } else {

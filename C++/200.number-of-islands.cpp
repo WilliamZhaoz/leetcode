@@ -87,3 +87,35 @@ public:
 	}
 };
 */
+// version 2 : dfs
+class Solution {
+public:
+    int numIslands(vector<vector<char>>& grid) {
+        if (grid.empty() || grid[0].empty()) {
+            return 0;
+        }
+        int res = 0, m = grid.size(), n = grid[0].size();
+        vector<vector<bool>> visited(m, vector<bool>(n, false));
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (!visited[i][j] && grid[i][j] == '1') {
+                    helper(grid, visited, i, j);
+                    res++;
+                }
+            }
+        }
+        return res;
+    }
+    void helper(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j) {
+        vector<pair<int, int>> dirs{{0, 1}, {0, -1}, {-1, 0}, {1, 0}};
+        int m = grid.size(), n = grid[0].size();
+        for (int d = 0; d < 4; d++) {
+            int ni = i + dirs[d].first, nj = j + dirs[d].second;
+            if (ni >= 0 && nj >= 0 && ni < m && nj < n && !visited[ni][nj] && grid[i][j] == '1') {
+                visited[ni][nj] = true;
+                helper(grid, visited, ni, nj);
+            }
+        }
+    }
+    
+};

@@ -31,3 +31,43 @@ public:
         return res;
     }
 };
+// version : 10/5/2018
+class Solution {
+public:
+    bool exist(vector<vector<char>>& board, string word) {
+        if (word.empty()) {
+            return true;
+        }
+        if (board.empty() || board[0].empty()) {
+            return false;
+        }
+        int m = board.size(), n = board[0].size();
+        vector<vector<bool>> visited(m, vector<bool>(n, false));
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (helper(board, visited, word, 0, i, j)) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    bool helper(vector<vector<char>> &board, vector<vector<bool>> &visited, string word, int start, int i, int j) {
+        if (start == word.size()) {
+            return true;
+        }
+        vector<pair<int, int>> dirs{{0, 1}, {0, -1}, {-1, 0}, {1, 0}};
+        int m = board.size(), n = board[0].size();
+        for (int d = 0; d < 4; d++) {
+            int ni = i + dirs[d].first, nj = j + dirs[d].second;
+            if (i >= 0 && j >= 0 && i < m && j < n && !visited[i][j] && board[i][j] == word[start]) {
+                visited[i][j] = true;
+                if (helper(board, visited, word, start + 1, ni, nj)) {
+                    return true;
+                }
+                visited[i][j] = false;
+            }
+        }
+        return false;
+    }
+};

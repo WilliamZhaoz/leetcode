@@ -59,7 +59,7 @@ Stay tuned for updates.
 | [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `8/30/2018`  | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `8/23/2018`        | Medium | `Sort` `Two Points` `Array` | [c++](./C++/75.sort-colors.cpp) |
 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | `6/12/2018` | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
-| [79.Word Search](https://leetcode.com/problems/word-search/description/) | `★☆☆`              | Medium | `Array` `Backtracking` | [c++](./C++/79.word-search.cpp) |
+| [79.Word Search](https://leetcode.com/problems/word-search/description/) | `10/5/2018` `★☆☆` | Medium | `Array` `Backtracking` | [c++](./C++/79.word-search.cpp) |
 | [80.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |    `★☆☆`           | Medium | `Array` `Two Pointers` | [c++](./C++/80.remove-duplicates-from-sorted-array-ii.cpp) |
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | `9/6/2018` `★☆☆` | Medium     | `Array` `Binary Search` | [c++](./C++/81.search-in-rotated-sorted-array-ii.cpp)              |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |  `7/14/2018` |Easy    | `Link List` | [c++](./C++/83.remove-duplicates-from-sorted-list.cpp)              |
@@ -129,7 +129,7 @@ Stay tuned for updates.
 | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `6/3/2018` | Medium     | `Array`                                  | [c++](./C++/238.product-of-array-except-self.cpp) |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `7/12/2018` |  Medium    |         `Array`                                 | [c++](./C++/238.product-of-array-except-self.cpp) |
 | [240.Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | `9/13/2018` `★☆☆` | Medium     | `Binary Search` `Divide and Conquer`                                  | [c++](./C++/240.search-a-2d-matrix-ii.cpp) |
-| [252.Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | `9/14/2018` `★☆☆` | Easy | `Sort` | [c++](./C++/252.meeting-rooms.cpp) |
+| [252.Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | `9/14/2018` | Easy | `Sort` | [c++](./C++/252.meeting-rooms.cpp) |
 | [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | `9/19/2018` `★☆☆` | Medium | `Sort` `Heap` `Greedy` | [c++](./C++/253.meeting-rooms-ii.cpp) |
 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | `8/13/2018`              | Easy| `Hash Table` | [c++](./C++/266.palindrome-permutation.cpp) |
 | [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `9/19/2018` `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
@@ -199,27 +199,27 @@ Stay tuned for updates.
 | [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | `10/4/2018` `★☆☆` | Easy | `Array` | [c++](./C++/697.degree-of-an-array.cpp) |
 | [713.Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | `10/4/2018` `★☆☆`  | Medium | `Array` `Two Points` | [c++](./C++/713.subarray-product-less-than-k.cpp) |
 | [714.Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |  `★☆☆`            | Medium | `Array` `Greedy` `Dynamic Programming`| [c++](./C++/714.best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) |
-| [717. 1-bit and 2-bit Characters ](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/717.1-bit-and-2-bit-characters.cpp) |
-| [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) |          | Medium      | `Array` `Hash Table` `Binary Search`  `Dynamic Programming`                      | [c++](./C++/718.maximum-length-of-repeated-subarray.cpp) |
+| [717. 1-bit and 2-bit Characters ](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | `10/5/2018` `★☆☆` | Easy | `Array` | [c++](./C++/717.1-bit-and-2-bit-characters.cpp) |
+| [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | `10/5/2018` `★☆☆` | Medium      | `Array` `Hash Table` `Binary Search`  `Dynamic Programming`                      | [c++](./C++/718.maximum-length-of-repeated-subarray.cpp) |
 | [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) |          | Hard       | `Array` `Binary Search`  `Heap`                      | [c++](./C++/719.find-k-th-smallest-pair-distance.cpp) |
-| [724. Find Pivot Index ](https://leetcode.com/problems/find-pivot-index/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/724.find-pivot-index.cpp) |
-| [729.My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) |       ✖          | Medium | `Array` | [c++](./C++/729.my-calendar-i.cpp) |
-| [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | `★☆☆` | Easy      |`Binary Search`                       | [c++](./C++/744.find-smallest-letter-greater-than-target.cpp) |
-| [746. Min Cost Climbing Stairs ](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | `7/8/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/746.min-cost-climbing-stairs.cpp) |
-| [747. Largest Number At Least Twice of Others ](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | `★☆☆` | Easy | `Array` | [c++](./C++/747.largest-number-at-least-twice-of-others.cpp) |
-| [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/766.toeplitz-matrix.cpp) |
-| [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | `★☆☆` | Medium | `Array` | [c++](./C++/769.max-chunks-to-make-sorted.cpp) |
-| [775.Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | `★☆☆`              | Medium | `Array` `Math` | [c++](./C++/775.global-and-local-inversions.cpp) |
+| [724. Find Pivot Index ](https://leetcode.com/problems/find-pivot-index/description/) | `10/5/2018` `★☆☆` | Easy | `Array` | [c++](./C++/724.find-pivot-index.cpp) |
+| [729.My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | `10/5/2018` `★☆☆` | Medium | `Array` | [c++](./C++/729.my-calendar-i.cpp) |
+| [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | `10/5/2018` | Easy      |`Binary Search`                       | [c++](./C++/744.find-smallest-letter-greater-than-target.cpp) |
+| [746. Min Cost Climbing Stairs ](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | `10/5/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/746.min-cost-climbing-stairs.cpp) |
+| [747. Largest Number At Least Twice of Others ](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | `10/5/2018` | Easy | `Array` | [c++](./C++/747.largest-number-at-least-twice-of-others.cpp) |
+| [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | `10/5/2018` | Easy | `Array` | [c++](./C++/766.toeplitz-matrix.cpp) |
+| [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | `10/5/2018` `★☆☆` | Medium | `Array` | [c++](./C++/769.max-chunks-to-make-sorted.cpp) |
+| [775.Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | `10/5/2018` `★☆☆` | Medium | `Array` `Math` | [c++](./C++/775.global-and-local-inversions.cpp) |
 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |          | Hard     |`Binary Search`   `Heap` `Depth-first Search` `Union Find`                    | [c++](./C++/778.swim-in-rising-water.cpp)|
 | [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |          | Hard     |`Binary Search`   `Heap`                     | [c++](./C++/786.k-th-smallest-prime-fraction.cpp)|
-| [792.Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |          `★☆☆`    | Medium | `Array` | [c++](./C++/792.number-of-matching-subsequences.cpp) |
+| [792.Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |    `10/5/2018` `★☆☆`    | Medium | `Array` | [c++](./C++/792.number-of-matching-subsequences.cpp) |
 | [793. K-th Smallest Prime Fraction](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |          | Hard     |`Binary Search`                   | [c++](./C++/793.preimage-size-of-factorial-zeroes-function.cpp)|
-| [825.Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) | `★☆☆`              | Medium | `Array`  | [c++](./C++/825.friends-of-appropriate-ages.cpp) |
+| [825.Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) | `10/5/2018`   | Medium | `Array`  | [c++](./C++/825.friends-of-appropriate-ages.cpp) |
 | [830. Positions of Large Groups ](https://leetcode.com/problems/positions-of-large-groups/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/830.positions-of-large-groups.cpp) |
 | [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/832.flipping-an-image.cpp) |
 |     [840.Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)                                     |         `7/10/2018`    | Easy | `Array` | [c++](./C++/840.magic-squares-in-grid.cpp) |
 |   [849.Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)                                       |         `7/10/2018`    | Easy | `Array` | [c++](./C++/849.maximize-distance-to-closest-person.cpp) |
-| [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | `★☆☆` | Easy    |`Binary Search`                   | [c++](./C++/852.peak-index-in-a-mountain-array.cpp)|
+| [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | `10/5/2018` | Easy    |`Binary Search`                   | [c++](./C++/852.peak-index-in-a-mountain-array.cpp)|
 | [868. Transpose Matrix ](https://leetcode.com/problems/transpose-matrix/description/) | `7/8/2018` | Easy | `Array` | [c++](./C++/868.transpose-matrix.cpp) |
 | [402. Remove K Digits ](https://leetcode.com/problems/remove-k-digits/description/) | `8/20/2018`  | Medium | `Stack` `Greedy` | [c++](./C++/402.remove-k-digits.cpp) |
 | [273.Integer to English Words ](https://leetcode.com/problems/integer-to-english-words/description/) | `8/21/2018`     | Hard | `String` `Math` | [c++](./C++/273.integer-to-english-words.cpp) |
@@ -235,15 +235,14 @@ Stay tuned for updates.
 | [415.Add Strings](https://leetcode.com/problems/add-strings/description/) | `8/23/2018`              | Easy | `Math` | [c++](./C++/415.add-strings.cpp) |
 | [445.Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | `8/27/2018`              | Medium | `Linked List`  `Math`| [c++](./C++/445.add-two-numbers-ii.cpp) |
 | [43]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| [252]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| [212]() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [212. Word Search II ](https://leetcode.com/problems/word-search-ii/description/) | `10/5/2018` `★☆☆`  | Hard | `BackTracking` `Trie` | [c++](./C++/212.word-search-ii.cpp) |
 | [2.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | `8/27/2018`              | Medium | `Linked List` `Math` | [c++](./C++/2.add-two-numbers.cpp) |
 | [525. Contiguous Array ](https://leetcode.com/problems/contiguous-array/description/) | `8/27/2018`    | Medium | `Hash Table` | [c++](./C++/525.contiguous-array.cpp) |
 | [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | `8/28/2018`              | Medium | `Hash Table` `Bit Manipulation` | [c++](./C++/187.repeated-dna-sequences.cpp) |
 | [347.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | `8/28/2018`              | Medium | `Hash Table` `Heap` | [c++](./C++/347.top-k-frequent-elements.cpp) |
-| [200.Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | `9/17/2018` `★☆☆` | Medium | `Depth-first Search` `Breadth-first Search` `Union Find` | [c++](./C++/200.number-of-islands.cpp) |
+| [200.Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | `10/5/2018` `★☆☆` | Medium | `Depth-first Search` `Breadth-first Search` `Union Find` | [c++](./C++/200.number-of-islands.cpp) |
 | [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/description/) | `9/17/2018` `★☆☆` | Hard | `Union Find` | [c++](./C++/305.number-of-islands-ii.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [208. Implement Trie (Prefix Tree) ](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | `10/6/2018` `★☆☆`  | Medium | `Trie` `Design` | [c++](./C++/208.implement-trie-prefix-tree.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
