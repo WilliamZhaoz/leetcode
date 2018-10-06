@@ -18,7 +18,7 @@ Stay tuned for updates.
 | [18.4Sum](https://leetcode.com/problems/4sum/description/) | `5/23/2018`          | Medium     | `Array` `Hash Table` `Two Pointers`      | [c++](./C++/18.4sum.cpp)                 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | `7/14/2018`          | Medium     | `Link List` `Two Pointers`      | [c++](./C++/19.remove-nth-node-from-end-of-list.cpp)                 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | `7/22/2018`          | Easy     | `String` `Stack`      | [c++](./C++/20.valid-parentheses.cpp)                 |
-| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | `7/15/2018`          |Easy    | `Link List`     | [c++](./C++/21.merge-two-sorted-lists.cpp)                 |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | `10/7/2018` `★★★` |Easy    | `Link List`     | [c++](./C++/21.merge-two-sorted-lists.cpp)                 |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |`9/7/2018` `★★☆`        |Medium   | `Backtracking` `String`     | [c++](./C++/22.generate-parentheses.cpp)                 |
 |   [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                       |       `7/10/2018`      | Easy | `Array` | [c++](./C++/26.remove-duplicates-from-sorted-array.cpp) |
 | [28.Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | `6/8/2018`          | Easy     |  `Two Pointers` `string`      | [c++](./C++/28.implement-strstr.cpp)                 |
@@ -37,7 +37,7 @@ Stay tuned for updates.
 | [45.Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | `5/3/2018` `★☆☆`    | Hard       | `Array` `Greedy`                         | [c++](./C++/45.jump-game-ii.cpp)         |
 | [46. Permutations](https://leetcode.com/problems/permutations/description/) |    `7/21/2018`    | Medium      | `Backtracking`                         | [c++](./C++/46.permutations.cpp)         |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) |    `6/26/2018` `★☆☆`    | Medium      | `Backtracking`                         | [c++](./C++/47.permutations-ii.cpp)         |
-| [48.Rotate Image](https://leetcode.com/problems/rotate-image/description/) |       `★☆☆`         | Medium | `Array` | [c++](./C++/48.rotate-image.cpp) |
+| [48.Rotate Image](https://leetcode.com/problems/rotate-image/description/) |       `10/6/2018`       | Medium | `Array` | [c++](./C++/48.rotate-image.cpp) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | `8/8/2018` `★☆☆` | Medium | `String` `Hash Table` | [c++](./C++/49.group-anagrams.cpp) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |   `★☆☆`     | Medium      | `Math` `Binary Search`                         | [c++](./C++/50.powx-n.cpp)         |
 | [52.N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | `7/23/2018` `★☆☆`        | Hard | `Backtracking`  | [c++](./C++/52.n-queens-ii.cpp) |
@@ -55,7 +55,7 @@ Stay tuned for updates.
 | [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★★☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `8/29/2018`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
-| [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `★☆☆`         | Medium | `Array` | [c++](./C++/73.https://leetcode.com/problems/set-matrix-zeroes.cpp) |
+| [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `10/6/2018`     | Medium | `Array` | [c++](./C++/73.set-matrix-zeroes.cpp) |
 | [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `8/30/2018`  | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors/description/) |      `8/23/2018`        | Medium | `Sort` `Two Points` `Array` | [c++](./C++/75.sort-colors.cpp) |
 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | `6/12/2018` | Medium     | `Array` `Backtracking` `Bit Manipulation` | [c++](./C++/78.subsets.cpp)              |
@@ -68,24 +68,24 @@ Stay tuned for updates.
 | [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |     `7/14/2018` `★☆☆`     | Medium      | `Linked List`                          | [c++](./C++/92.reverse-linked-list-ii.cpp) |
 | [93.Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | `6/28/2018` | Medium      | `String` `Backtracking`                          | [c++](./C++/93.restore-ip-addresses.cpp) |
 | [94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | `5/17/1018`  | Medium     | `Hash Table` `Stack` `Tree`              | [c++](./C++/94.binary-tree-inorder-traversal.cpp) |
-| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | `3/13/2018` | Medium     | `Tree` `Depth-first Search`              | [c++](./C++/98.validate-binary-search-tree.cpp) |
-| [101.Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | `8/1/2018`   `★☆☆`            | Medium | `Tree` `Depth-first Search` `Breadth-first Search` | [c++](./C++/101.symmetric-tree.cpp) |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | `10/6/2018` | Medium     | `Tree` `Depth-first Search`              | [c++](./C++/98.validate-binary-search-tree.cpp) |
+| [101.Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | `10/6/2018`         | Easy | `Tree` `Depth-first Search` `Breadth-first Search` | [c++](./C++/101.symmetric-tree.cpp) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | `3/9/2018`  | Medium     | `Tree` `Breadth-first Search`            | [c++](./C++/102.binary-tree-level-order-traversal.cpp) |
-| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | `3/9/2018`  | Medium     | `Tree` `Stack`  `Breadth-first Search`   | [c++](./C++/103.binary-tree-zigzag-level-order-traversal.cpp) |
+| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | `10/6/2018` | Medium     | `Tree` `Stack`  `Breadth-first Search`   | [c++](./C++/103.binary-tree-zigzag-level-order-traversal.cpp) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | `3/10/2018` | Easy       | `Tree` `Depth-first Search`              | [c++](./C++/104.maximum-depth-of-binary-tree.cpp) |
 | [105.Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | `8/5/2018`  `★☆☆`             | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/105.construct-binary-tree-from-preorder-and-inorder-traversal.cpp) |
-| [106.Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | `8/5/2018`     `★☆☆`         | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/106.construct-binary-tree-from-inorder-and-postorder-traversal.cpp) |
+| [106.Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | `10/6/2018`     `★☆☆`      | Medium | `Array` `Depth-first Search` `Tree` | [c++](./C++/106.construct-binary-tree-from-inorder-and-postorder-traversal.cpp) |
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | `3/9/2018`  | Easy       | `Tree` `Breadth-first Search`            | [c++](./C++/107.binary-tree-level-order-traversal-ii.cpp) |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | `3/10/2018` `★☆☆`  | Easy       | `Tree` `Depth-first Search`              | [c++](./C++/110.balanced-binary-tree.cpp) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | `5/21/2018`    `★☆☆`         | Easy       | `Tree` `Depth-first Search` `Breadth-first Search` | [c++](./C++/111.minimum-depth-of-binary-tree.cpp) |
-| [112. Path Sum](https://leetcode.com/problems/path-sum/description/) | `3/12/2018` | Easy       | `Tree` `Depth-first Search`              | [c++](./C++/112.path-sum.cpp)  |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/description/) | `10/6/2018` | Easy       | `Tree` `Depth-first Search`              | [c++](./C++/112.path-sum.cpp)  |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | `7/9/2018` | Easy | `Array` | [c++](./C++/118.pascals-triangle.cpp) |
 |  [119.Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)                                        |          `★★☆`   | Easy | `Array` | [c++](./C++/119.pascals-triangle-ii.cpp) |
 | [120.Triangle](https://leetcode.com/problems/triangle/description/) |      `9/6/2018` `★☆☆`      | Medium | `Array` `Dynamic Programming` | [c++](./C++/120.triangle.cpp) |
 | [121. Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | `7/8/2018` | Easy | `Array` `Dynamic Programming` | [c++](./C++/121.best-time-to-buy-and-sell-stock.cpp) |
 | [122. Best Time to Buy and Sell Stock II ]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ ) | `7/20/2018` | Easy | `Array` `Greedy` | [c++](./C++/122.best-time-to-buy-and-sell-stock-ii.cpp) |
 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | `8/3/2018`              | Hard | `Array` `Dynamic Processing`  | [c++](./C++/123.best-time-to-buy-and-sell-stock-iii.cpp) |
-| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | `8/8/2018` `★☆☆`     | Hard       | `Tree` `Depth-first Search`              |     [c++](./C++/124.binary-tree-maximum-path-sum.cpp)   |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | `10/6/2018` `★☆☆`  | Hard       | `Tree` `Depth-first Search`              |     [c++](./C++/124.binary-tree-maximum-path-sum.cpp)   |
 | [127. Remove Element](https://leetcode.com/problems/remove-element/description/) | `7/9/2018` | Easy | `Array` `Two Pointers` | [c++](./C++/127.remove-element.cpp) |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |       `3/21/2018`     | Medium       | `Tree` `Depth-first Search`              |     [c++](./C++/129.sum-root-to-leaf-numbers.cpp)                               |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) |   `6/28/2018` | Medium       | `Backtracking`              |     [c++](./C++/131.palindrome-partitioning.cpp)                               |
@@ -125,7 +125,7 @@ Stay tuned for updates.
 | [229.Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | `9/5/2018` `★☆☆`   | Medium | `Array`  | [c++](./C++/229.majority-element-ii.cpp) |
 | [230.Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | `9/13/2018` `★★★` | Medium      | `Binary Search`   `Tree`                | [c++](./C++/230.kth-smallest-element-in-a-bst.cpp) |
 | [235.Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | `8/7/2018` `★☆☆` | Easy | `Tree` | [c++](./C++/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) |
-| [236.Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | `6/28/2018`           | Medium     | `Tree`                                   | [c++](./C++/236.lowest-common-ancestor-of-a-binary-tree.cpp) |
+| [236.Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | `10/6/2018`        | Medium     | `Tree`                                   | [c++](./C++/236.lowest-common-ancestor-of-a-binary-tree.cpp) |
 | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `6/3/2018` | Medium     | `Array`                                  | [c++](./C++/238.product-of-array-except-self.cpp) |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | `7/12/2018` |  Medium    |         `Array`                                 | [c++](./C++/238.product-of-array-except-self.cpp) |
 | [240.Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | `9/13/2018` `★☆☆` | Medium     | `Binary Search` `Divide and Conquer`                                  | [c++](./C++/240.search-a-2d-matrix-ii.cpp) |
@@ -133,14 +133,14 @@ Stay tuned for updates.
 | [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | `9/19/2018` `★☆☆` | Medium | `Sort` `Heap` `Greedy` | [c++](./C++/253.meeting-rooms-ii.cpp) |
 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | `8/13/2018`              | Easy| `Hash Table` | [c++](./C++/266.palindrome-permutation.cpp) |
 | [268. Missing Number ](https://leetcode.com/problems/missing-number/description/) | `9/19/2018` `★☆☆` | Easy | `Array` `Math` `Bit manipulation ` | [c++](./C++/268.missing-number.cpp) |
-| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | `9/20/2018`              | Easy | `Tree` `Binary Search` | [c++](./C++/270.closest-binary-search-tree-value.cpp) |
+| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | `10/6/2018`           | Easy | `Tree` `Binary Search` | [c++](./C++/270.closest-binary-search-tree-value.cpp) |
 | [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | `9/20/2018`              | Hard | `Tree` `Stack` | [c++](./C++/272.closest-binary-search-tree-value-ii.cpp) |
 | [274.H-Index](https://leetcode.com/problems/h-index/description/) |  `9/20/2018` | Medium     | `Hash Table` `Sort`                                  | [c++](./C++/274.h-index.cpp) |
 | [275.H-Index II](https://leetcode.com/problems/h-index-ii/description/) | `9/21/2018` `★☆☆`  | Medium     | `Binary Search`                                  | [c++](./C++/275.h-index-ii.cpp) |
 | [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) | `9/21/2018` | Medium | `Array` | [c++](./C++/277.find-the-celebrity.cpp)   |
 | [278.First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |`9/21/2018`   | Easy    | `Binary Search`                                  | [c++](./C++/278.first-bad-version.cpp) |
 | [283. Move Zeroes ](https://leetcode.com/problems/move-zeroes/description/) | `9/21/2018` | Easy | `Array` `Two Pointers` | [c++](./C++/283.move-zeroes.cpp) |
-| [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | `8/13/2018` `★☆☆`  | Medium | `Tree` | [c++](./C++/285.inorder-successor-in-bst.cpp) |
+| [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | `10/6/2018` `★☆☆` | Medium | `Tree` | [c++](./C++/285.inorder-successor-in-bst.cpp) |
 | [287.Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | `9/21/2018` | Medium    | `Array` `Two Pointers` `Binary Search`                                  | [c++](./C++/287.find-the-duplicate-number.cpp) |
 | [300.Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | `9/21/2018` `★☆☆` | Medium   | `Binary Search`     `Dynamic Programming`                             | [c++](./C++/300.longest-increasing-subsequence.cpp) |
 | [301.Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | `/9/24/2018` `★☆☆`              | Medium | `Depth-first Search` `Breadth-first Search` | [c++](./C++/301.remove-invalid-parentheses.cpp) |
@@ -241,13 +241,13 @@ Stay tuned for updates.
 | [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | `8/28/2018`              | Medium | `Hash Table` `Bit Manipulation` | [c++](./C++/187.repeated-dna-sequences.cpp) |
 | [347.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | `8/28/2018`              | Medium | `Hash Table` `Heap` | [c++](./C++/347.top-k-frequent-elements.cpp) |
 | [200.Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | `10/5/2018` `★☆☆` | Medium | `Depth-first Search` `Breadth-first Search` `Union Find` | [c++](./C++/200.number-of-islands.cpp) |
-| [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/description/) | `9/17/2018` `★☆☆` | Hard | `Union Find` | [c++](./C++/305.number-of-islands-ii.cpp) |
-| [208. Implement Trie (Prefix Tree) ](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | `10/6/2018` `★☆☆`  | Medium | `Trie` `Design` | [c++](./C++/208.implement-trie-prefix-tree.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/description/) | `9/17/2018` `☆☆☆` | Hard | `Union Find` | [c++](./C++/305.number-of-islands-ii.cpp) |
+| [208. Implement Trie (Prefix Tree) ](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | `10/6/2018` `☆☆☆` | Medium | `Trie` `Design` | [c++](./C++/208.implement-trie-prefix-tree.cpp) |
+| [297. Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | `10/6/2018` `☆☆☆` | Hard | `Tree` `Design` | [c++](./C++/297.serialize-and-deserialize-binary-tree.cpp) |
+| [173. Binary Search Tree Iterator ](https://leetcode.com/problems/binary-search-tree-iterator/description/) | `10/6/2018` `☆☆☆` | Medium | `Tree` `Design` `Stack` | [c++](./C++/173.binary-search-tree-iterator.cpp) |
+| [117. Populating Next Right Pointers in Each Node II ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | `10/6/2018` `☆☆☆` | Hard | `Binary Search` `Tree` | [c++](./C++/117.populating-next-right-pointers-in-each-node-ii.cpp) |
+| [114. Flatten Binary Tree to Linked List ](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | `10.6.2018` `☆☆☆` | Medium | `Tree` `Depth-first Search` | [c++](./C++/114.flatten-binary-tree-to-linked-list.cpp) |
+| [24. Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | `10/6/2018` `★☆☆`  | Medium | `Linked List` | [c++](./C++/24.swap-nodes-in-pairs.cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
 | []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |

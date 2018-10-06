@@ -28,3 +28,37 @@ public:
         return root;    
     }
 };
+
+// version 2 : do not use map
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        if (inorder.empty() || postorder.empty()) {
+            return NULL;
+        }
+        
+        int m = inorder.size();
+        return helper(inorder, postorder, 0, inorder.size() - 1, 0, postorder.size() - 1);  
+    }
+    TreeNode* helper(vector<int>& inorder, vector<int> &postorder, int inleft, int inright, int postleft, int postright) {
+        if (postright < postleft) {
+            return NULL;
+        }
+        TreeNode *root = new TreeNode(postorder[postright]);
+        int rooti = find(inorder.begin(), inorder.end(), postorder[postright]) - inorder.begin(); 
+        int leftc = rooti - inleft;
+        root->left = helper(inorder, postorder, inleft, inleft + leftc - 1, postleft, postleft + leftc - 1);
+        root->right = helper(inorder, postorder, rooti + 1, inright, postleft + leftc, postright - 1);
+        return root;
+        
+    }
+};

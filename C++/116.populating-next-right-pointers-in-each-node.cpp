@@ -24,7 +24,8 @@ public:
         connect(root->right);
     }
     */
-    // version 2: nonrecursive
+	// version 2 : level traversal
+    // version 3: nonrecursive
     void connect(TreeLinkNode *root) {
         if (!root) {
             return;

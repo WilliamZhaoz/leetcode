@@ -49,6 +49,7 @@ public:
                 if (curNode->right) {
                     s.push(curNode->right);
                 }
+				
                 if (curNode->left) {
                     s.push(curNode->left);
                 }    
@@ -59,7 +60,6 @@ public:
     }
     */
     // non-recursive version 2
-    /*
     vector<int> postorderTraversal(TreeNode *root) {
         vector<int> result;
         stack<TreeNode *> myStack;
@@ -81,32 +81,6 @@ public:
             }
         }
         return result;
-    } 
-    */   
-    // non-recursive version 3:
+    }    
     
-    vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> res;
-        if (!root) {
-            return res;
-        }
-        stack<TreeNode*> s;
-        s.push(root);
-        TreeNode *last = root;
-        while (!s.empty()) {
-            TreeNode *node = s.top();
-            if (node->left && last != node->left && last != node->right) {
-                s.push(node->left);
-            } else if (node->right && node->right != last) {
-                s.push(node->right);
-            } else {
-                res.push_back(node->val);
-                node = s.top();
-                s.pop();
-                last = node;
-            }
-            
-        }
-        return res;
-    }
 };
