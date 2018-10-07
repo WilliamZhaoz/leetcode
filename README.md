@@ -1,5 +1,3 @@
-
-
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
 
 Up to date (2018-7-8), there are `833` Algorithms questions on [LeetCode Online Judge](https://leetcode.com/).  
@@ -248,10 +246,28 @@ Stay tuned for updates.
 | [117. Populating Next Right Pointers in Each Node II ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | `10/6/2018` `☆☆☆` | Hard | `Binary Search` `Tree` | [c++](./C++/117.populating-next-right-pointers-in-each-node-ii.cpp) |
 | [114. Flatten Binary Tree to Linked List ](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | `10.6.2018` `☆☆☆` | Medium | `Tree` `Depth-first Search` | [c++](./C++/114.flatten-binary-tree-to-linked-list.cpp) |
 | [24. Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | `10/6/2018` `★☆☆`  | Medium | `Linked List` | [c++](./C++/24.swap-nodes-in-pairs.cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
-| []() | `★☆☆`              | Medium | `` | [c++](./C++/..cpp) |
+| [23. Merge k Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists/description/) | `10/7/2018` `★☆☆` | Hard | `Linked List` `Divide and Conquer` `Heap` | [c++](./C++/23.merge-k-sorted-lists.cpp) |
+| [25. Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | `10/7/2018` `★☆☆`  | Hard | `Linked List` | [c++](./C++/25.reverse-nodes-in-k-group.cpp) |
+| [71. Simplify Path ](https://leetcode.com/problems/simplify-path/description/) | `ignore` | Medium | `Stack` `String` | [c++](./C++/71.simplify-path.cpp) |
+| [5. Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/description/) | ` 10/7/2018` `★☆☆` | Medium | `Dynamic Programming` `String` | [c++](./C++/5.longest-palindromic-substrin.cpp) |
+| [91. Decode Ways ](https://leetcode.com/problems/decode-ways/description/) | `10/7/2018 ★☆☆`|Medium | ` Dynamic Programming` `String` | [c++](./C++/91.decode-ways.cpp) |
+| [125. Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/description/) | `ignore `  | Easy | ` Two Pointers` `String` | [c++](./C++/125.valid-palindrome.cpp) |
+| [8. String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/description/) | ` ignore`  | Medium | ` String` `Math` | [c++](./C++/8.string-to-integer-atoi.cpp) |
+| [215.Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | `10/7/2018 ★☆☆`  | Medium | `Heap` `Divide and Conquer` | [c++](./C++/215.kth-largest-element-in-an-array.cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
 |                                          |             |            |                                          |                                          |
