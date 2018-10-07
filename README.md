@@ -42,7 +42,7 @@ Stay tuned for updates.
 | [53. Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/) | `8/2/2018` | Easy | `Array` `Devide and Conquer` `Dynamic Programming` | [c++](./C++/53.maximum-subarray.cpp) |
 | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | `6/26/2018` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix.cpp)        |
 | [55.Jump Game](https://leetcode.com/problems/jump-game/description/) | `5/2/2018`  | Medium     | `Array` `Greedy`                         | [c++](./C++/55.jump-game.cpp)            |
-| [56.Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/56.merge-intervals.cpp) |
+| [56.Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | `10/7/2018` `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/56.merge-intervals.cpp) |
 | [57.Insert Interval](https://leetcode.com/problems/insert-interval/description/) | `★☆☆`              | Medium | `Array` `Sort` | [c++](./C++/57.insert-interval.cpp) |
 | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | `6/2/2018` `★☆☆` | Medium     | `Array`                                  | [c++](./C++/59.spiral-matrix-ii.cpp)     |
 | [60.Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | `6/19/2018` `★☆☆` | Medium     | `Math` `Backtracking`                                 | [c++](./C++/60.permutation-sequence.cpp)     |
@@ -254,8 +254,8 @@ Stay tuned for updates.
 | [125. Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/description/) | `ignore `  | Easy | ` Two Pointers` `String` | [c++](./C++/125.valid-palindrome.cpp) |
 | [8. String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/description/) | ` ignore`  | Medium | ` String` `Math` | [c++](./C++/8.string-to-integer-atoi.cpp) |
 | [215.Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | `10/7/2018 ★☆☆`  | Medium | `Heap` `Divide and Conquer` | [c++](./C++/215.kth-largest-element-in-an-array.cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| [168.Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | `10/7/2018 ★☆☆`  | Medium | `Math` | [c++](./C++/168.excel-sheet-column-title.cpp) |
+| [258.Add Digits](https://leetcode.com/problems/add-digits/description/) | `10/7/2018 ★☆☆` | Medium | `Math` | [c++](./C++/258.add-digits.cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
