@@ -256,10 +256,10 @@ Stay tuned for updates.
 | [215.Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | `10/7/2018 ★☆☆`  | Medium | `Heap` `Divide and Conquer` | [c++](./C++/215.kth-largest-element-in-an-array.cpp) |
 | [168.Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | `10/7/2018 ★☆☆`  | Medium | `Math` | [c++](./C++/168.excel-sheet-column-title.cpp) |
 | [258.Add Digits](https://leetcode.com/problems/add-digits/description/) | `10/7/2018 ★☆☆` | Medium | `Math` | [c++](./C++/258.add-digits.cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/) | `10/7/2018 ★☆☆`  | Medium | `Depth-first Search` `Breadth-first Search` `Graph` `Topological Sort` | [c++](./C++/207.course-schedule.cpp) |
+| [692.Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | `10/7/2018 ★☆☆`  | Medium | `Hash Table` `Heap` `Trie` | [c++](./C++/692.top-k-frequent-words.cpp) |
+| [328.Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | `10/7/2018`  | Medium | `Linked List` | [c++](./C++/328.odd-even-linked-list.cpp) |
+| [329.Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | `10/7/2018 ★☆☆`  | Hard | `Depth-first Search` `Topological Sort` `Memoization` | [c++](./C++/329.longest-increasing-path-in-a-matrix.cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
