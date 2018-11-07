@@ -51,7 +51,7 @@ Stay tuned for updates.
 | [63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | `8/30/2018`              | Medium | `Array`  `Dynamic Programming`| [c++](./C++/63.unique-paths-ii.cpp) |
 | [64. Minimum Path Sum ](https://leetcode.com/problems/minimum-path-sum/description/) |     `★★☆`          | Medium | `Array`  `Dynamic Programming`| [c++](./C++/64.minimum-path-sum.cpp) |
 | [66.Plus One](https://leetcode.com/problems/plus-one/description/) | `★★☆` | Easy | `Array` `Math` | [c++](./C++/66.problems/plus-one.cpp) |
-| [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `8/29/2018`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
+| [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |  `11/7/2018`  | Easy    | `Math` `Binary Search`                                 | [c++](./C++/69.sqrtx.cpp)     |
 | [72.Edit Distance](https://leetcode.com/problems/edit-distance/description/) | `5/3/2018`         | Hard       | `String` `Dynamic Programming`           | [c++](./C++/72.edit-distance.cpp)        |
 | [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |     `10/6/2018`     | Medium | `Array` | [c++](./C++/73.set-matrix-zeroes.cpp) |
 | [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |  `8/30/2018`  | Medium      | `Array` `Binary Search`           | [c++](./C++/74.search-a-2d-matrix.cpp)        |
@@ -104,7 +104,7 @@ Stay tuned for updates.
 | [160.Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | `7/16/2018`  | Easy      | `Link List`                           | [c++](./C++/160.intersection-of-two-linked-lists.cpp) |
 | [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) | `8/13/2018`              | Medium | `String` | [c++](./C++/161.one-edit-distance.cpp) |
 | [162.Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | `9/5/2018` | Medium       | `Array` `Binary Search`                           | [c++](./C++/162.find-peak-element.cpp) |
-| [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | `8/8/2018`     | Medium | `String` | [c++](./C++/165.compare-version-numbers.cpp) |
+| [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | `11/7/2018`  | Medium | `String` | [c++](./C++/165.compare-version-numbers.cpp) |
 | [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | `5/22/2018`         | Easy       | `Array` `Two Pointers` `Binary-search Tree` | [c++](./C++/167.two-sum-ii-input-array-is-sorted.cpp) |
 | [169. Majority Element ](https://leetcode.com/problems/majority-element/description/) | `9/5/2018` `★★☆` | Easy | `Array` `Devide and Conquer` `Bit manipulation` | [c++](./C++/169.majority-element.cpp) |
 | [174.Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |      `9/6/2018` `★☆☆`     | Hard      |  `Binary-search Tree` `Dynamic Programming`| [c++](./C++/174.dungeon-game.cpp) |
@@ -260,9 +260,9 @@ Stay tuned for updates.
 | [692.Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | `10/7/2018 ★☆☆`  | Medium | `Hash Table` `Heap` `Trie` | [c++](./C++/692.top-k-frequent-words.cpp) |
 | [328.Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | `10/7/2018`  | Medium | `Linked List` | [c++](./C++/328.odd-even-linked-list.cpp) |
 | [329.Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | `10/7/2018 ★☆☆`  | Hard | `Depth-first Search` `Topological Sort` `Memoization` | [c++](./C++/329.longest-increasing-path-in-a-matrix.cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
-| []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
+| [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) | `11/7/2018 ★☆☆` | Medium | ` Design` | [c++](./C++/284.peeking-iterator.cpp) |
+| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | `11/7/2018 ★☆☆` | Easy | ` Math` | [c++](./C++/7.reverse-integer.cpp) |
+| [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/) | ` 11/7/2018 ★☆☆` | Medium | `Dynamic Programming` | [c++](./C++/221.maximal-square.cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
 | []() | ` `  | Medium | ` ` | [c++](./C++/..cpp) |
